@@ -43,7 +43,7 @@ menu:
 
 params:
   navbar:
-    displayTitle: ReproNim
+    displayTitle: Brain Behavior Quantization and Synchronization
     displayLogo: true
     logo:
       path: images/logo-square-256.png
@@ -55,7 +55,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/ReproNIM/repronim.org/edit/main/content"
+    base: "https://github.com/brain-bbqs/brain-bbqs.github.io/edit/main/content"
 
   theme:
     # light | dark | system
@@ -65,4 +65,4 @@ params:
 deployment:
     targets:
         name: public
-        URL: s3://dev.repronim.org
+        URL: s3://dev.brain-bbqs.org
