@@ -1,5 +1,5 @@
 ---
-title: 'ReproNim: A Center for Reproducible Neuroimaging Computation'
+title: 'BBQS: Brain Behavior Quantization and Synchronization'
 toc: false
 ---
 
