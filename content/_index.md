@@ -9,13 +9,16 @@ toc: false
 
 ## Vision
 
-All neuroimaging is reproducible neuroimaging
+To gain a comprehensive mechanistic understanding of the neural basis of behavior
 
 ## Mission
 
-To deliver effective tools, training, and principles to the neuroimaging community to support the entire neuroimaging workflow for rigorous, reproducible, and FAIR neuroimaging.
+- Developing tools to capture and quantify behavior with high temporal resolution and across multiple dimensions
+- Synchronizing with simultaneously recorded brain activity
+- Building new conceptual and computational models that capture the complexity of behavior
+- Establishing a cross-disciplinary consortium to develop, integrate and disseminate tools, research designs, and ethical frameworks
 
-{{< rn-buttons >}}
+<!-- {{< rn-buttons >}}
     {{< rn-button 
         link="/resources/getting-started/" 
         title="Getting Started" 
@@ -40,4 +43,4 @@ To deliver effective tools, training, and principles to the neuroimaging communi
         image="/images/sec-why2.webp" 
         subtitle="Why reproducible neuroimaging" 
     >}}
-{{< /rn-buttons >}}
+{{< /rn-buttons >}} -->
