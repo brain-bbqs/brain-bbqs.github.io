@@ -1,12 +1,12 @@
 ---
-title: Collaborators
+title: Funded Projects
 type: docs
 weight: 30
 ---
 
-Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborators in both [Collaborative Projects](#collaborative-projects) and [Service Projects](#service-projects).
+<!-- Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborators in both [Collaborative Projects](#collaborative-projects) and [Service Projects](#service-projects).
 
-[Contact us](mailto:info@repronim.org) if you are interested in becoming a ReproNim Collaborative or Service Project.
+[Contact us](mailto:info@repronim.org) if you are interested in becoming a ReproNim Collaborative or Service Project. -->
 
 <link rel="stylesheet" href="/css/logos.css">
 <div class="container logos">
@@ -40,76 +40,85 @@ Our efforts are substantially informed and enhanced through the breadth and dept
     </div>
 </div>
 
-## Collaborative Projects
+### R34 (NIH Planning Grant Program) Projects
 
-We are collaborating with numerous groups around the country and abroad to synergistically develop ReproNim tools in concert with (and as informed by) rapidly advancing technologies in a variety of areas including image analysis, workflow processing, data sourcing and hosting, and associated API developments.
+<!-- We are collaborating with numerous groups around the country and abroad to synergistically develop ReproNim tools in concert with (and as informed by) rapidly advancing technologies in a variety of areas including image analysis, workflow processing, data sourcing and hosting, and associated API developments.
 
-The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in P41 Technology and Research Development projects.
+The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in P41 Technology and Research Development projects. -->
 
-- CP1: [Segmenting Brain Structures for Neurological Disorders](https://reporter.nih.gov/search/kT7X-zyN302C6XNNo4g5xQ/project-details/10295766)
-    - [Bruce Fischl](https://www.nmr.mgh.harvard.edu/user/5499) (PI)
-    - Institution: Massachusetts General Hospital/Harvard Medical School
-- CP2: [Connectome Coordination Facility II](https://mblab.si/research/project-connectome-coordination-facility-ii/)
-    - [Daniel Marcus](https://www.mir.wustl.edu/employees/daniel-marcus/) and [David Van Essen](https://neuroscience.wustl.edu/people/david-van-essen-phd/) (PIs)
-    - Institution: Washington University St. Louis
-- CP3: [Healthy Brains for Healthy Lives Initiative](https://www.mcgill.ca/hbhl/)
-    - [Alan Evans](https://mcin.ca/about-mcin/alans-cv/) (PI)
-    - Institution: McGill University
-- CP4: [COINSTAC: Worldwide Analysis of Valence System Brain Circuits](https://coinstac.org/)
-    - Vince Calhoun, [Jessica Turner](https://trendscenter.org/jessica-turner/), [Theodorus Van Erp](https://www.faculty.uci.edu/profile.cfm?faculty_id=5812) (PIs)
-    - Institutions: Georgia State University/UC Irvine
-- CP5: [OpenNeuro: An Open Archive for Analysis and Sharing of Brain Initiative Data](https://openneuro.org/)
-    - [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack) (PI)
-    - Institution: Stanford University
-- CP6: [Brainlife: Lowering the Barrier of Entry to Network Neuroscience](https://brainlife.io/about/)
-    - Franco Pestilli (PI)
-    - Institution: University of Texas at Austin
-- CP7: [DataLad: Versatile Platform for Digital Logistics](https://www.datalad.org/)
-    - [Michael Hanke](https://www.psychoinformatics.de/lab-members.html) (PI)
-    - Institution: Research Center Julich
-- CP8: [Reproducible Imaging-based Brain Growth Charts for Psychiatry](https://www.pennlinc.io/studies)
-    - [Theodore Satterthwaite](https://www.med.upenn.edu/bbl/faculty-tsatterthwaithe.html) (PI)
-    - Institution: University of Pennsylvania
-- CP9: [Adolescent Brain and Cognitive Development (ABCD)](https://abcdstudy.org/about/)
-    - [Anders Dale](https://profiles.ucsd.edu/anders.dale)
-    - Institution: University of California at San Diego
-- CP10: [ENIGMA: A Global Alliance to Unlock Brain Mechanisms](https://enigma.ini.usc.edu/about-2/funding/)
-    - [Neda Jahanshad](https://profiles.sc-ctsi.org/neda.jahanshad) and [Paul Thompson](https://keck.usc.edu/faculty-search/paul-m-thompson/) (PIs)
-    - Institution: University of Southern California (USC)
+- P01: [A modeling framework and arena for measuring contextual influences of behavior](https://reporter.nih.gov/search/lVXfsunpaUqfmTQW0jRXmA/project-details/10786801)
+  - PI(s): [Dyer, Eva](evadyer@gatech.edu),
+    [McGrath, Patrick T](patrick.mcgrath@biology.gatech.edu)*
+  - Institution(s): Georgia Institute of Technology
+- P02: [Behavioral quantification through active learning and multidimensional physiological monitoring](https://reporter.nih.gov/search/9wx4cEt5ske-A88YXC9tyA/project-details/10786800)
+  - PI(s): [Grover, Pulkit](pgrover@andrew.cmu.edu),
+    [Kuang, Zheng](zhengkua@andrew.cmu.edu),
+    [Rubin, Jonathan E](jonrubin@pitt.edu),
+    [Yttri, Eric](eyttri@andrew.cmu.edu)*
+  - Institution(s): Carnegie Mellon University
+- P03: [Computational attribution and fusion of vocalizations, social behavior, and neural recordings in a naturalistic environment](https://reporter.nih.gov/search/rGFBDprnTkuFAoKdn5poIQ/project-details/10786899)
+  - PI(s): [Sanes, Dan Harvey](dhs1@nyu.edu)*,
+    [Schneider, David Michael](david.schneider@nyu.edu),
+    [Williams, Alexander Henry](ahwillia@stanford.edu)
+  - Institution(s): Carnegie Mellon University
+- P04: [Development of a smart aviary to probe neural dynamics of complex social behaviors in a gregarious songbird](https://reporter.nih.gov/search/8oyFUGQ1mUW_hivhx91O7A/project-details/10786687)
+  - PI(s): [Aflatouni, Firooz ](firooz@seas.upenn.edu),
+    [Balasubramanian, Vijay ](vijay@physics.upenn.edu),
+    [Daniilidis, Kostas ](kostas@cis.upenn.edu),
+    [Schmidt, Marc F](marcschm@sas.upenn.edu)*
+  - Institution(s): University of Pennsylvania
+- P05: [Harnessing biological rhythms for a resilient social motif generator](https://reporter.nih.gov/search/O078sWhnFkaeTno7iDSyBw/project-details/10797723)
+  - PI(s): [Padilla Coreano, Nancy ](npadillacoreano@ufl.edu)*,
+    [Saxena, Shreya ](shreya.saxena@yale.edu),
+    [Wesson, Daniel W](danielwesson@ufl.edu)
+  - Institution(s): University of Florida
+- P06: [High-resolution 3D tracking of social behaviors for deep phenotypic analysis](https://reporter.nih.gov/search/t8WADFOb80WhM891u1bwgg/project-details/10786685)
+  - PI(s): [Dunn, Timothy William](timothy.dunn@duke.edu)*,
+    [Olveczky, Bence P](olveczky@fas.harvard.edu)
+  - Institution(s): Duke University
+- P07: [High-throughput, high-resolution 3D measurement of ethologically relevant rodent behavior in a dynamic environment](https://reporter.nih.gov/search/KBKLXTA2UEOKMLhYCQIvZg/project-details/10786883)
+  - PI(s): [Dunn, Timothy William](timothy.dunn@duke.edu)*,
+    [Field, Gregory Darin](greg.d.field@gmail.com),
+    [Tadross, Michael R](michael.tadross@duke.edu)
+  - Institution(s): Duke University
+- P08: [Interpersonal behavioral synchrony in virtual and in-person dyadic conversation](https://reporter.nih.gov/search/PkNqY-ET0kW0D3SfO6MoLA/project-details/10797870)
+  - PI(s): [Corcoran, Cheryl Mary](cheryl.corcoran@mssm.edu)*,
+    [Grinband, Jack ](jg2269@cumc.columbia.edu),
+    [Parvaz, Muhammad Adeel](muhammad.parvaz@mssm.edu)
+  - Institution(s): Icahn School of Medicine at Mount Sinai
+- P09: [Multimodal behavioral analysis of oromanual food-handling in freely moving animals](https://reporter.nih.gov/search/5Wc6Oe9LGk6OglJVMNeRKw/project-details/10795435)
+  - PI(s): [Shepherd, Gordon M](g-shepherd@northwestern.edu)
+  - Institution(s): Northwestern University
+- P10: [Towards High-Resolution Neuro-Behavioral Quantification of Sheep in the Field to Study Complex Social Behaviors](https://reporter.nih.gov/search/5Wc6Oe9LGk6OglJVMNeRKw/project-details/10786956)
+  - PIs: [Kemere, Caleb ](caleb.kemere@rice.edu)
+  - Institution(s): Rice University
+- P11: [Transformative Optical Imaging of Brain & Behavior in Navigating Genetic Species](https://reporter.nih.gov/search/ftmhALHbiUCuSoFidVtlvQ/project-details/10786461)
+  - PI(s): [Nagel, Katherine ](katherine.nagel@nyumc.org),
+    [Schoppik, David ](david.schoppik@nyulangone.org)*,
+    [Shaner, Nathan Christopher](ncshaner@ucsd.edu),
+    [Wang, Jane ](zw24@cornell.edu)
+  - Institution(s): New York University School of Medicine
 
-## Service Projects
+### R61/R33 (Translational Neural Devices) Projects
 
-In parallel, we are working with both basic and clinical researchers with established programs of applied neuroimaging research around the country, as well as large scale informatics initiatives in the US and the UK, to guide and refine the practical implementation of ReproNim tools in a variety of real-world research settings.
+- P01: [Synchronized neuronal and peripheral biomarker recordings in freely moving humans](https://reporter.nih.gov/search/iYWuFLFKV02NMxjmWYBzoA/project-details/10792386)
+  - PI(s): [Suthana, Nanthia A](nsuthana@mednet.ucla.edu)
+  - Institution(s): University of California, Los Angeles
+- P02: [Capturing Autobiographical memory formation in People moving Through real-world spaces Using synchronized wearables and intracranial Recordings of EEG](https://reporter.nih.gov/search/d5uHWn4kKEmuyUDa6pyaNg/project-details/10792324)
+  - PI(s): [Inman, Cory Shields](cory.inman@psych.utah.edu)
+  - Institution(s): University of Utah
+- P03: [Integrated movement tracking for pediatric OPM-MEG studies of intellectual disability](https://reporter.nih.gov/search/OyGvzxrwu0mcaz0ainOjYw/project-details/10792146)
+  - PI(s): [Welsh, John P](jpwelsh@uw.edu)*,
+  [Roberts, Timothy P](robertstim@chop.edu)
+  - Institution(s): Seattle Children's Hospital
+- P04: [Developing the Context-Aware Multimodal Ecological Research and Assessment (CAMERA) Platform for Continuous Measurement and Prediction of Anxiety and Memory State](https://reporter.nih.gov/search/mVgOCnwbrEKKmaPwBpSCqQ/project-details/10801782)
+  - PI(s): [Jacobs, Joshua](joshua.jacobs@columbia.edu)*,
+  [Ortiz, Jorge](jorge.ortiz@rutgers.edu),
+  [Widge, Alik S](awidge@umn.edu),
+  [Youngerman, Brett E ](bey2103@cumc.columbia.edu)
+  - Institution(s): Columbia University Health Sciences
+- P05: [Novel multimodal neural, physiological, and behavioral sensing and machine learning for mental states](https://reporter.nih.gov/search/asKY5_5QYEehWfAu-Lbsiw/project-details/10800578)
+  - PI(s): [Shanechi, Maryam](shanechi@usc.edu)
+  - Institution(s): University of Southern California
 
-The P41 Center provides their technology to Service Projects (SPs) that serve as users of the well-developed and stable technologies of the Center.
-
-- SP1: [Biomarkers of Developmental Trajectories and Treatment in ASD](https://www.semel.ucla.edu/autism/cart-team)
-    - [Susan Bookheimer](https://www.semel.ucla.edu/autism/team/susan-bookheimer-phd) (PI)
-    - Institution: University of California at Los Angeles
-- SP2: [Environment, Epigenetics, Neurodevelopment & Health of Extremely Preterm Children](https://elgan.fpg.unc.edu/)
-    - [Michael O'Shea](https://www.med.unc.edu/childrensresearch/directory/michael-oshea-md-mph/) and [Rebecca Fry](https://sph.unc.edu/adv_profile/rebecca-fry-phd/) (PIs)
-    - Institution:University of North Carolina at Chapel Hill
-- SP3: [Neuroscience Gateway to Enable Dissemination of Computational and Data Processing Tools and Software](https://www.nsgportal.org/overview.html)
-    - [Amitava Majumdar](https://www.sdsc.edu/~majumdar/) and [Kenneth Yoshimoto](https://www.sdsc.edu/research/researcher_spotlight/yoshimoto_kenneth.html) and [Subhashini Sivagnanam](https://users.sdsc.edu/~sivagnan/) (PIs)
-    - Institution: University of California at San Diego
-- SP4: [CRCNS: NeuroBridge: Connecting Big Data for Reproducible Clinical Neuroscience](https://neurobridges.org/)
-    - [Lei Wang](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/lei-wang-phd) (PI)
-    - Institution: Ohio State University
-- SP5: [EAGER: Community Building and Workflows for Data Sharing with Publicly Accessible and Consumable Metadata](https://www.linknovate.com/grant/eager-community-building-and-workflows-for-data-sharing-with-publicly-accessible-and-consumable-metadata-317869/)
-    - [Brian Nosek](https://med.virginia.edu/faculty/faculty-listing/ban2b/) (PI)
-    - Institution: University of Virginia/Center for Open Science
-- SP6: [Fragmented Early-life Experiences, Aberrant Circuit Maturation, Emotional Vulnerabilities](https://contecenter.uci.edu/overall-center/)
-    - [Tallie Baram](https://cnlm.uci.edu/baram/) (PI)
-    - Institution: University of California at Irvine
-- SP7: [Bridges-2: Scalable Converged Computing, Data, and Analytics for Rapidly Evolving Science and Engineering Research](https://www.psc.edu/resources/bridges-2/)
-    - [Shawn Brown](https://www.psc.edu/shawn-brown/) (PI)
-    - Institution: Pittsburgh Supercomputing Center
-- SP8: [Neuroimaging Analysis Center (NAC)](https://nac.spl.harvard.edu/)
-    - [Ron Kikinis](https://nac.spl.harvard.edu/people/ron-kikinis) (PI)
-    - Institution: Harvard Medical School
-- SP9: [Anticipatory Processing in Psychiatric Disorder](https://reporter.nih.gov/search/69atkcxvKk2-B5v0oH5ZQg/project-details/10336474)
-    - [Anna Manelis](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/anna-manelis-phd) (PI)
-    - Institution: University of Pittsburgh
-- SP10: [Developing Multimodal Imaging of Neurocognitive Dynamics (Dev-MIND)](https://diconlab.org/projects/)
-    - [Tony Wilson](https://www.boystownhospital.org/research/faculty/tony-wilson) (PI)
-    - Institution: University of Nebraska Medical Center
+  *Contact PI/Project Lead
