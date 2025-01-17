@@ -2,6 +2,7 @@
 title: Reproducible Neuroimaging in Practice
 type: docs
 weight: 80
+draft: true
 ---
 
 ## ReproNim's principles of reproducible neuroimaging

@@ -2,6 +2,7 @@
 title: Why Reproducible Neuroimaging
 type: docs
 weight: 70
+draft: true
 ---
 
 Neuroimaging, like many fields of science, has been described as having a "reproducibility crisis."  We most often hear about this crisis in the context of trust in science and the ability to reproduce the results of studies published by others.  It is, of course, frustrating when you waste time and resources trying to replicate others' research only to find that the experiment failed. We know that some of the causes of the current reproducibility crisis are poor study design, including underpowered studies. But it is also true that even in a properly designed neuroimaging study, more and more evidence has emerged that any set of results is very sensitive to even small variations in computational environments, preprocessing steps, statistical models, and analyses used. In fact, as we state in our [2019 paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2019.00001/full), when it comes to reproducibility in neuroimaging, "everything matters."

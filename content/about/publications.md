@@ -1,11 +1,11 @@
 ---
-Title: ReproNim Publications
+Title: BBQS Publications
 linkTitle: "Publications"
 type: docs
 weight: 60
 ---
 
-- Low, D. M., Rao, V., Randolph, G., Song, P. C., & Ghosh, S. S. (2024). Identifying bias in models that detect vocal fold paralysis from audio recordings using explainable machine learning and clinician ratings.  doi: [10.1101/2020.11.23.20235945](https://doi.org/10.1101/2020.11.23.20235945)
+<!-- - Low, D. M., Rao, V., Randolph, G., Song, P. C., & Ghosh, S. S. (2024). Identifying bias in models that detect vocal fold paralysis from audio recordings using explainable machine learning and clinician ratings.  doi: [10.1101/2020.11.23.20235945](https://doi.org/10.1101/2020.11.23.20235945)
 - Burdinski, D., Kodibagkar, A., Potter, K., Schuster, R., Evins, A. E., Ghosh, S., & Gilman, J. (2024). Impact of year-long cannabis use for medical symptoms on brain activation during cognitive processes.  doi: [10.1101/2024.04.29.24306516](https://doi.org/10.1101/2024.04.29.24306516)
 - Lin, D. J., Backus, D., Chakraborty, S., Liew, S.-L., Valero-Cuevas, F. J., Patten, C., & Cotton, R. J. (2024). Transforming modeling in neurorehabilitation: clinical insights for personalized rehabilitation. Journal of NeuroEngineering and Rehabilitation, 21(1).  doi: [10.1186/s12984-024-01309-w](https://doi.org/10.1186/s12984-024-01309-w)
 - Renton, A. I., Dao, T. T., Johnstone, T., Civier, O., Sullivan, R. P., White, D. J., Lyons, P., Slade, B. M., Abbott, D. F., Amos, T. J., Bollmann, S., Botting, A., Campbell, M. E. J., Chang, J., Close, T. G., Dörig, M., Eckstein, K., Egan, G. F., Evas, S., … Bollmann, S. (2024). Neurodesk: an accessible, flexible and portable data analysis environment for reproducible neuroimaging. Nature Methods, 21(5), 804–808.  doi: [10.1038/s41592-023-02145-x](https://doi.org/10.1038/s41592-023-02145-x)
@@ -107,4 +107,4 @@ weight: 60
 - Margulies, D. S., Ghosh, S. S., Goulas, A., Falkiewicz, M., Huntenburg, J. M., Langs, G., Bezgin, G., Eickhoff, S. B., Castellanos, F. X., Petrides, M., Jefferies, E., & Smallwood, J. (2016). Situating the default-mode network along a principal gradient of macroscale cortical organization. Proceedings of the National Academy of Sciences, 113(44), 12574–12579.  doi: [10.1073/pnas.1608282113](https://doi.org/10.1073/pnas.1608282113)
 - Gorgolewski, K. J., Auer, T., Calhoun, V. D., Craddock, R. C., Das, S., Duff, E. P., Flandin, G., Ghosh, S. S., Glatard, T., Halchenko, Y. O., Handwerker, D. A., Hanke, M., Keator, D., Li, X., Michael, Z., Maumet, C., Nichols, B. N., Nichols, T. E., Pellman, J., … Poldrack, R. A. (2016). The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments. Scientific Data, 3(1).  doi: [10.1038/sdata.2016.44](https://doi.org/10.1038/sdata.2016.44)
 - Bandrowski, A. E., & Martone, M. E. (2016). RRIDs: A Simple Step toward Improving Reproducibility through Rigor and Transparency of Experimental Methods. Neuron, 90(3), 434–436.  doi: [10.1016/j.neuron.2016.04.030](https://doi.org/10.1016/j.neuron.2016.04.030)
-- Honor, L. B., Haselgrove, C., Frazier, J. A., & Kennedy, D. N. (2016). Data Citation in Neuroimaging: Proposed Best Practices for Data Identification and Attribution. Frontiers in Neuroinformatics, 10.  doi: [10.3389/fninf.2016.00034](https://doi.org/10.3389/fninf.2016.00034)
+- Honor, L. B., Haselgrove, C., Frazier, J. A., & Kennedy, D. N. (2016). Data Citation in Neuroimaging: Proposed Best Practices for Data Identification and Attribution. Frontiers in Neuroinformatics, 10.  doi: [10.3389/fninf.2016.00034](https://doi.org/10.3389/fninf.2016.00034) -->

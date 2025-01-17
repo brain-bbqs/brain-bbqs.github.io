@@ -3,15 +3,15 @@
 # changeTheme: "Change theme"
 # copyCode: "Copy code"
 copyright: |
-  © 2024-2025 ReproNim
+  © 2024-2025 BBQS
   </br>
-  Support: [NIH-NIBIB P41 EB019936](https://reporter.nih.gov/project-details/8999833)
+  Support: [NIH BRAIN Initiative U24MH136628-01](https://reporter.nih.gov/search/NfCIRcP5c0eqWjzBvOjD_g/project-details/10888562)
 # dark: "Dark"
 # editThisPage: "Edit this page on GitHub →"
 # lastUpdated: "Last updated on"
 # light: "Light"
 # noResultsFound: "No results found."
 # onThisPage: "On this page"
-poweredBy: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-light.svg" alt="Deploys by Netlify" /> </a>
+# poweredBy: <a href="https://www.netlify.com"> <img src="https://www.netlify.com/v3/img/components/netlify-light.svg" alt="Deploys by Netlify" /> </a>
 # readMore: "Read more →"
 # searchPlaceholder: "Search..."
