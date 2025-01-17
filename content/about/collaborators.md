@@ -11,32 +11,26 @@ weight: 30
 <link rel="stylesheet" href="/css/logos.css">
 <div class="container logos">
     <div class="logos-1">
-        <img src="/images/logos/center-for-open-sience.png" alt="Center for Open Science logo" />
-        <img src="/images/logos/georgia-state-university.png" alt="Georgia State University logo" />
-        <img src="/images/logos/harvard-medical-school.png" alt="Harvard Medical School logo" />
-        <img src="/images/logos/mgh.png" alt="Massachusetts General Hospital logo" />
-        <img src="/images/logos/mcgill.png" alt="McGill University logo" />
-    </div>
-    <div>
-        <img src="/images/logos/ohio-state-university.png" alt="Ohio State University logo" />
-        <img src="/images/logos/psc.png" alt="Pittsburgh Supercomputing Center logo" />
-        <img src="/images/logos/juelich.png" alt="Research Center Juelich logo" />
-        <img src="/images/logos/stanford.png" alt="Stanford University logo" />
-        <img src="/images/logos/umass-chan.png" alt="UMass Chan Medical School logo" />
-    </div>
-    <div>
-        <img src="/images/logos/unmc.png" alt="University of Nebraska Medical Center logo" />
+        <img src="/images/logos/mit.png" alt="Massachusetts Institute of Technology logo" />
+        <img src="/images/logos/gatech.png" alt="Georgia Institute of Technology logo" />
+        <img src="/images/logos/cmu.png" alt="Carnegie Mellon University logo" />
         <img src="/images/logos/university-of-pennsylvania.png" alt="University of Pennsylvania logo" />
-        <img src="/images/logos/university-of-pittsburgh.png" alt="University of Pittsburgh logo" />
-        <img src="/images/logos/uci.png" alt="University of California at Irvine logo" />
-        <img src="/images/logos/ucla.png" alt="University of California at Los Angeles logo" />
+        <img src="/images/logos/ufl.png" alt="University of Florida logo" />
     </div>
     <div>
-        <img src="/images/logos/ucsd.png" alt="University of California at San Diego logo" />
-        <img src="/images/logos/unc-chapel-hill.png" alt="University of North Carolina at Chapel Hill logo" />
+        <img src="/images/logos/duke.png" alt="Duke University logo" />
+        <img src="/images/logos/issms.png" alt="  - Institution(s): Icahn School of Medicine at Mount Sinai
+ logo" />
+        <img src="/images/logos/northwestern.png" alt="Northwestern University logo" />
+        <img src="/images/logos/rice.png" alt="Rice University logo" />
+        <img src="/images/logos/nyu-langone.png" alt="NYU Langone Health logo" />
+    </div>
+    <div>
+       <img src="/images/logos/ucla.png" alt="University of California at Los Angeles logo" />
+        <img src="/images/logos/uofutah.png" alt="University of Utah logo" />
+        <img src="/images/logos/sea-child.png" alt="Seattle Children's logo" />
+        <img src="/images/logos/columbia.png" alt="Columbia University logo" />
         <img src="/images/logos/usc.png" alt="University of Southern California logo" />
-        <img src="/images/logos/ut-austin.png" alt="University of Texas at Austin logo" />
-        <img src="/images/logos/washington-university-at-st-louis.png" alt="Washington University at St. Louis logo" />
     </div>
 </div>
 
