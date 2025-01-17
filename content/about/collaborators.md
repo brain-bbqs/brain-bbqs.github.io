@@ -131,10 +131,10 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Kennedy, David Nelson](David.Kennedy@umassmed.edu)
   - Institution(s): Massachusetts Institute of Technology, Penn State, UMass Chan Medical School
 
-  ### NIH R24 (Resource-Related Research Projects)
+### NIH R24 (Resource-Related Research Projects)
 
-  - [Ecosystem for Multi-modal Brain-behavior Experimentation and Research (EMBER)](https://reporter.nih.gov/search/WmrQyaKHvkSe5KZfddP37w/project-details/10888659)
-  - PI(s): [Wester, Brock A.](Brock.Wester@jhuapl.edu),
-  - Institution(s): Johns Hopkins University
+- [Ecosystem for Multi-modal Brain-behavior Experimentation and Research (EMBER)](https://reporter.nih.gov/search/WmrQyaKHvkSe5KZfddP37w/project-details/10888659)
+- PI(s): [Wester, Brock A.](Brock.Wester@jhuapl.edu),
+- Institution(s): Johns Hopkins University
 
-  \*Contact PI/Project Lead
+\*Contact PI/Project Lead

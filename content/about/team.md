@@ -5,7 +5,7 @@ type: docs
 weight: 10
 ---
 
-## ReproNim leadership
+## BBQS leadership
 
 - [David Kennedy](https://profiles.umassmed.edu/display/130002) ReproNim PI - ReproNim: A Center for Reproducible Neuroimaging Computation
     - Professor of Psychiatry and Radiology, UMass Chan Medical School, Worcester, MA
