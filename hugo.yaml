@@ -29,10 +29,10 @@ menu:
       weight: 3
     - name: Events
       pageRef: /events/
-      weight: 3
-    # - name: Fellowship
-    #   pageRef: /fellowship/
-    #   weight: 5
+      weight: 4
+    - name: Projects
+      pageRef: /projects/
+      weight: 5
     - name: Participate
       pageRef: /participate/
       weight: 7

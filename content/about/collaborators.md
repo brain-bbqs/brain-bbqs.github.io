@@ -51,76 +51,92 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - PI(s): [Dyer, Eva](evadyer@gatech.edu),
     [McGrath, Patrick T](patrick.mcgrath@biology.gatech.edu)\*
   - Institution(s): Georgia Institute of Technology
+  - [Project Home](/projects/r34_01)
 - P02: [Behavioral quantification through active learning and multidimensional physiological monitoring](https://reporter.nih.gov/search/9wx4cEt5ske-A88YXC9tyA/project-details/10786800)
   - PI(s): [Grover, Pulkit](pgrover@andrew.cmu.edu),
     [Kuang, Zheng](zhengkua@andrew.cmu.edu),
     [Rubin, Jonathan E](jonrubin@pitt.edu),
     [Yttri, Eric](eyttri@andrew.cmu.edu)\*
   - Institution(s): Carnegie Mellon University
+  - [Project Home](/projects/r34_02)
 - P03: [Computational attribution and fusion of vocalizations, social behavior, and neural recordings in a naturalistic environment](https://reporter.nih.gov/search/rGFBDprnTkuFAoKdn5poIQ/project-details/10786899)
   - PI(s): [Sanes, Dan Harvey](dhs1@nyu.edu)\*,
     [Schneider, David Michael](david.schneider@nyu.edu),
     [Williams, Alexander Henry](ahwillia@stanford.edu)
   - Institution(s): Carnegie Mellon University
+  - [Project Home](/projects/r34_03)
 - P04: [Development of a smart aviary to probe neural dynamics of complex social behaviors in a gregarious songbird](https://reporter.nih.gov/search/8oyFUGQ1mUW_hivhx91O7A/project-details/10786687)
   - PI(s): [Aflatouni, Firooz ](firooz@seas.upenn.edu),
     [Balasubramanian, Vijay ](vijay@physics.upenn.edu),
     [Daniilidis, Kostas ](kostas@cis.upenn.edu),
     [Schmidt, Marc F](marcschm@sas.upenn.edu)\*
   - Institution(s): University of Pennsylvania
+  - [Project Home](/projects/r34_04)
 - P05: [Harnessing biological rhythms for a resilient social motif generator](https://reporter.nih.gov/search/O078sWhnFkaeTno7iDSyBw/project-details/10797723)
   - PI(s): [Padilla Coreano, Nancy ](npadillacoreano@ufl.edu)\*,
     [Saxena, Shreya ](shreya.saxena@yale.edu),
     [Wesson, Daniel W](danielwesson@ufl.edu)
   - Institution(s): University of Florida
+  - [Project Home](/projects/r34_05)
 - P06: [High-resolution 3D tracking of social behaviors for deep phenotypic analysis](https://reporter.nih.gov/search/t8WADFOb80WhM891u1bwgg/project-details/10786685)
   - PI(s): [Dunn, Timothy William](timothy.dunn@duke.edu)\*,
     [Olveczky, Bence P](olveczky@fas.harvard.edu)
   - Institution(s): Duke University
+  - [Project Home](/projects/r34_06)
 - P07: [High-throughput, high-resolution 3D measurement of ethologically relevant rodent behavior in a dynamic environment](https://reporter.nih.gov/search/KBKLXTA2UEOKMLhYCQIvZg/project-details/10786883)
   - PI(s): [Dunn, Timothy William](timothy.dunn@duke.edu)\*,
     [Field, Gregory Darin](greg.d.field@gmail.com),
     [Tadross, Michael R](michael.tadross@duke.edu)
   - Institution(s): Duke University
+  - [Project Home](/projects/r34_07)
 - P08: [Interpersonal behavioral synchrony in virtual and in-person dyadic conversation](https://reporter.nih.gov/search/PkNqY-ET0kW0D3SfO6MoLA/project-details/10797870)
   - PI(s): [Corcoran, Cheryl Mary](cheryl.corcoran@mssm.edu)\*,
     [Grinband, Jack ](jg2269@cumc.columbia.edu),
     [Parvaz, Muhammad Adeel](muhammad.parvaz@mssm.edu)
   - Institution(s): Icahn School of Medicine at Mount Sinai
+  - [Project Home](/projects/r34_08)
 - P09: [Multimodal behavioral analysis of oromanual food-handling in freely moving animals](https://reporter.nih.gov/search/5Wc6Oe9LGk6OglJVMNeRKw/project-details/10795435)
   - PI(s): [Shepherd, Gordon M](g-shepherd@northwestern.edu)
   - Institution(s): Northwestern University
+  - [Project Home](/projects/r34_09)
 - P10: [Towards High-Resolution Neuro-Behavioral Quantification of Sheep in the Field to Study Complex Social Behaviors](https://reporter.nih.gov/search/5Wc6Oe9LGk6OglJVMNeRKw/project-details/10786956)
   - PIs: [Kemere, Caleb ](caleb.kemere@rice.edu)
   - Institution(s): Rice University
+  - [Project Home](/projects/r34_10)
 - P11: [Transformative Optical Imaging of Brain & Behavior in Navigating Genetic Species](https://reporter.nih.gov/search/ftmhALHbiUCuSoFidVtlvQ/project-details/10786461)
   - PI(s): [Nagel, Katherine ](katherine.nagel@nyumc.org),
     [Schoppik, David ](david.schoppik@nyulangone.org)\*,
     [Shaner, Nathan Christopher](ncshaner@ucsd.edu),
     [Wang, Jane ](zw24@cornell.edu)
   - Institution(s): New York University School of Medicine
+  - [Project Home](/projects/r34_11)
 
 ### R61/R33 (Translational Neural Devices) Projects
 
 - P01: [Synchronized neuronal and peripheral biomarker recordings in freely moving humans](https://reporter.nih.gov/search/iYWuFLFKV02NMxjmWYBzoA/project-details/10792386)
   - PI(s): [Suthana, Nanthia A](nsuthana@mednet.ucla.edu)
   - Institution(s): University of California, Los Angeles
+  - [Project Home](/projects/r61_01/)
 - P02: [Capturing Autobiographical memory formation in People moving Through real-world spaces Using synchronized wearables and intracranial Recordings of EEG](https://reporter.nih.gov/search/d5uHWn4kKEmuyUDa6pyaNg/project-details/10792324)
   - PI(s): [Inman, Cory Shields](cory.inman@psych.utah.edu)
   - Institution(s): University of Utah
+  - [Project Home](/projects/r61_02/)
 - P03: [Integrated movement tracking for pediatric OPM-MEG studies of intellectual disability](https://reporter.nih.gov/search/OyGvzxrwu0mcaz0ainOjYw/project-details/10792146)
   - PI(s): [Welsh, John P](jpwelsh@uw.edu)\*,
     [Roberts, Timothy P](robertstim@chop.edu)
   - Institution(s): Seattle Children's Hospital
+  - [Project Home](/projects/r61_03/)
 - P04: [Developing the Context-Aware Multimodal Ecological Research and Assessment (CAMERA) Platform for Continuous Measurement and Prediction of Anxiety and Memory State](https://reporter.nih.gov/search/mVgOCnwbrEKKmaPwBpSCqQ/project-details/10801782)
   - PI(s): [Jacobs, Joshua](joshua.jacobs@columbia.edu)\*,
     [Ortiz, Jorge](jorge.ortiz@rutgers.edu),
     [Widge, Alik S](awidge@umn.edu),
     [Youngerman, Brett E ](bey2103@cumc.columbia.edu)
   - Institution(s): Columbia University Health Sciences
+  - [Project Home](/projects/r61_04/)
 - P05: [Novel multimodal neural, physiological, and behavioral sensing and machine learning for mental states](https://reporter.nih.gov/search/asKY5_5QYEehWfAu-Lbsiw/project-details/10800578)
   - PI(s): [Shanechi, Maryam](shanechi@usc.edu)
   - Institution(s): University of Southern California
+  - [Project Home](/projects/r61_05/)
 
 ### NIH U24 Program
 
@@ -130,11 +146,13 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Cabrera, Laura](lcabrera@psu.edu),
     [Kennedy, David Nelson](David.Kennedy@umassmed.edu)
   - Institution(s): Massachusetts Institute of Technology, Penn State, UMass Chan Medical School
+  - [Project Home](/projects/dcaic)
 
 ### NIH R24 (Resource-Related Research Projects)
 
 - [Ecosystem for Multi-modal Brain-behavior Experimentation and Research (EMBER)](https://reporter.nih.gov/search/WmrQyaKHvkSe5KZfddP37w/project-details/10888659)
 - PI(s): [Wester, Brock A.](Brock.Wester@jhuapl.edu),
 - Institution(s): Johns Hopkins University
+- [Project Home](/projects/ember)
 
 \*Contact PI/Project Lead
