@@ -1,5 +1,5 @@
 ---
-title: 'BBQS Events Calendar'
+title: 'BBQS Calendar'
 toc: false
 ---
 

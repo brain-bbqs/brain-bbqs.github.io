@@ -27,12 +27,15 @@ menu:
     - name: Resources
       pageRef: /resources/
       weight: 3
-    - name: Events
-      pageRef: /events/
+    - name: Announcements
+      pageRef: /announcements/
       weight: 4
+    - name: Calendar
+      pageRef: /calendar/
+      weight: 5
     - name: Projects
       pageRef: /projects/
-      weight: 5
+      weight: 6
     - name: Participate
       pageRef: /participate/
       weight: 7
