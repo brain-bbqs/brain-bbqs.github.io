@@ -58,7 +58,7 @@ weight: 30
 
 The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in P41 Technology and Research Development projects. -->
 <link rel="stylesheet" href="/css/projects.css">
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_01')">
 
 - P01: [A modeling framework and arena for measuring contextual influences of behavior](https://reporter.nih.gov/search/lVXfsunpaUqfmTQW0jRXmA/project-details/10786801)
   - PI(s): [Dyer, Eva](mailto:evadyer@gatech.edu),
@@ -68,7 +68,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_02')">
 
 - P02: [Behavioral quantification through active learning and multidimensional physiological monitoring](https://reporter.nih.gov/search/9wx4cEt5ske-A88YXC9tyA/project-details/10786800)
   - PI(s): [Grover, Pulkit](mailto:pgrover@andrew.cmu.edu),
@@ -80,7 +80,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_03')">
 
 - P03: [Computational attribution and fusion of vocalizations, social behavior, and neural recordings in a naturalistic environment](https://reporter.nih.gov/search/rGFBDprnTkuFAoKdn5poIQ/project-details/10786899)
 
@@ -92,7 +92,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
   </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_04')">
 
 - P04: [Development of a smart aviary to probe neural dynamics of complex social behaviors in a gregarious songbird](https://reporter.nih.gov/search/8oyFUGQ1mUW_hivhx91O7A/project-details/10786687)
 
@@ -105,7 +105,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
   </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_05')">
 
 - P05: [Harnessing biological rhythms for a resilient social motif generator](https://reporter.nih.gov/search/O078sWhnFkaeTno7iDSyBw/project-details/10797723)
 
@@ -117,7 +117,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
   </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_06')">
 
 - P06: [High-resolution 3D tracking of social behaviors for deep phenotypic analysis](https://reporter.nih.gov/search/t8WADFOb80WhM891u1bwgg/project-details/10786685)
 
@@ -128,7 +128,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
   </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_07')">
 
 - P07: [High-throughput, high-resolution 3D measurement of ethologically relevant rodent behavior in a dynamic environment](https://reporter.nih.gov/search/KBKLXTA2UEOKMLhYCQIvZg/project-details/10786883)
 
@@ -140,7 +140,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
   </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_08')">
 
 - P08: [Interpersonal behavioral synchrony in virtual and in-person dyadic conversation](https://reporter.nih.gov/search/PkNqY-ET0kW0D3SfO6MoLA/project-details/10797870)
 
@@ -152,7 +152,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
   </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_09')">
 
 - P09: [Multimodal behavioral analysis of oromanual food-handling in freely moving animals](https://reporter.nih.gov/search/5Wc6Oe9LGk6OglJVMNeRKw/project-details/10795435)
 
@@ -162,7 +162,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
   </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_10')">
 
 - P10: [Towards High-Resolution Neuro-Behavioral Quantification of Sheep in the Field to Study Complex Social Behaviors](https://reporter.nih.gov/search/5Wc6Oe9LGk6OglJVMNeRKw/project-details/10786956)
 
@@ -172,7 +172,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
   </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r34_11')">
 
 - P11: [Transformative Optical Imaging of Brain & Behavior in Navigating Genetic Species](https://reporter.nih.gov/search/ftmhALHbiUCuSoFidVtlvQ/project-details/10786461)
 
@@ -187,7 +187,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 ### R61/R33 (Translational Neural Devices) Projects
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r61_01')">
 
 - P01: [Synchronized neuronal and peripheral biomarker recordings in freely moving humans](https://reporter.nih.gov/search/iYWuFLFKV02NMxjmWYBzoA/project-details/10792386)
   - PI(s): [Suthana, Nanthia A](mailto:nsuthana@mednet.ucla.edu)
@@ -196,7 +196,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r61_02')">
 
 - P02: [Capturing Autobiographical memory formation in People moving Through real-world spaces Using synchronized wearables and intracranial Recordings of EEG](https://reporter.nih.gov/search/d5uHWn4kKEmuyUDa6pyaNg/project-details/10792324)
   - PI(s): [Inman, Cory Shields](mailto:cory.inman@psych.utah.edu)
@@ -205,7 +205,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r61_03')">
 
 - P03: [Integrated movement tracking for pediatric OPM-MEG studies of intellectual disability](https://reporter.nih.gov/search/OyGvzxrwu0mcaz0ainOjYw/project-details/10792146)
   - PI(s): [Welsh, John P](mailto:jpwelsh@uw.edu)\*,
@@ -215,7 +215,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r61_04')">
 
 - P04: [Developing the Context-Aware Multimodal Ecological Research and Assessment (CAMERA) Platform for Continuous Measurement and Prediction of Anxiety and Memory State](https://reporter.nih.gov/search/mVgOCnwbrEKKmaPwBpSCqQ/project-details/10801782)
   - PI(s): [Jacobs, Joshua](mailto:joshua.jacobs@columbia.edu)\*,
@@ -227,7 +227,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 </div>
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/r61_05')">
 
 - P05: [Novel multimodal neural, physiological, and behavioral sensing and machine learning for mental states](https://reporter.nih.gov/search/asKY5_5QYEehWfAu-Lbsiw/project-details/10800578)
   - PI(s): [Shanechi, Maryam](mailto:shanechi@usc.edu)
@@ -238,7 +238,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 ### NIH U24 Program
 
-<div class="hover-block">
+<div class="hover-block" onclick="openPage('/projects/dcaic')">
 
 - [BBQS AI Resource and Data Coordinating Center (BARD.CC)](https://reporter.nih.gov/search/NfCIRcP5c0eqWjzBvOjD_g/project-details/10888562)
 
@@ -252,7 +252,8 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 ### NIH R24 (Resource-Related Research Projects)
 
-<div class="hover-block">
+<a href="https://brain-bbqs.github.io/projects/ember/">
+<div class="hover-block" onclick="openPage('/projects/ember')">
 
 - [Ecosystem for Multi-modal Brain-behavior Experimentation and Research (EMBER)](https://reporter.nih.gov/search/WmrQyaKHvkSe5KZfddP37w/project-details/10888659)
 - PI(s): [Wester, Brock A](mailto:Brock.Wester@jhuapl.edu),
@@ -260,5 +261,12 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 - [Project Home](/projects/ember)
 
 </div>
+</a>
+
+<script>
+ function openPage(pageUrl){
+       window.open(pageUrl, "_self");
+     }
+</script>
 
 \*Contact PI/Project Lead
