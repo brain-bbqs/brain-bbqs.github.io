@@ -7,6 +7,8 @@ toc: false
     h2, p { text-align: center; }
 </style>
 
+<img src="images/logo-square-256.png" alt="Brain Behavior Quantization and Synchronization (BBQS)" width="350"/>
+
 ## Vision
 
 To gain a comprehensive mechanistic understanding of the neural basis of behavior
