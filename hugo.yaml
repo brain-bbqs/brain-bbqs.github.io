@@ -33,12 +33,15 @@ menu:
     - name: Announcements
       pageRef: /announcements/
       weight: 4
+    - name: Job Board
+      pageRef: /job-board/
+      weight: 5
     - name: Calendar
       pageRef: /calendar/
-      weight: 5
+      weight: 6
     - name: Projects
       pageRef: /projects/
-      weight: 6
+      weight: 7
     # - name: Participate
     #   pageRef: /participate/
     #   weight: 7
