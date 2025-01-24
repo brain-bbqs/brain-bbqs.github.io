@@ -5,16 +5,16 @@ toc: true
 
 #### Why working groups?
 
-#### What working groups?
-- Analytics
-- Devices
-- Ethics, Legal, and Social Issues (ELSI)
-- Standards
+Working groups are essential to the success of a consortium project, as they bring together a range of experts from different organizations to focus on specific tasks. Each group works on a particular area of the project, collaborating to find solutions and share knowledge. By dividing the project into smaller, more manageable parts, working groups help ensure that work moves forward smoothly and deadlines are met. Together, their efforts contribute to the overall goals of the project, ensuring it achieves its desired outcomes.
 
-#### Why taskforce?
+#### Current working groups for BBQS
+- WG-Analytics
+- WG-Devices
+- WG-Ethics, Legal, and Social Issues (WG-ELSI)
+- WG-Standards
 
 #### Working Group Chairs
-- Analytics: [Bouchard, Kristofer E](KEBouchard@lbl.gov)
-- Devices: TBD
-- ELSI: [Cabrera, Laura](mailto:lcabrera@psu.edu)
-- Standards: [Ruebel, Oliver](oruebel@lbl.gov), [Struhl, Melissa K](mekline@mit.edu)
+- WG-Analytics: [Bouchard, Kristofer E](KEBouchard@lbl.gov)
+- WG-Devices: TBD
+- WG-ELSI: [Cabrera, Laura](mailto:lcabrera@psu.edu)
+- WG-Standards: [Ruebel, Oliver](oruebel@lbl.gov), [Struhl, Melissa K](mekline@mit.edu)

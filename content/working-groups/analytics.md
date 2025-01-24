@@ -1,5 +1,5 @@
 ---
-title: Analytics
+title: WG-Analytics
 type: docs
 weight: 10
 ---
@@ -12,4 +12,5 @@ weight: 10
 
 #### Working Group Chairs
 - [Bouchard, Kristofer E](KEBouchard@lbl.gov)
-- Devices: TBD
+
+**_Mailing List_**: wg-analytics@brain-bbqs.org

@@ -1,5 +1,5 @@
 ---
-title: Ethical, Legal, and Social Issues (ELSI)
+title: WG-Ethical, Legal, and Social Issues (WG-ELSI)
 type: docs
 weight: 30
 ---
@@ -11,4 +11,6 @@ weight: 30
 #### Taskforce(s)
 
 #### ELSE Working Group Chair(s)
-ELSI: [Cabrera, Laura](mailto:lcabrera@psu.edu)
+- [Cabrera, Laura](mailto:lcabrera@psu.edu)
+
+**_Mailing List_**: wg-elsi@brain-bbqs.org

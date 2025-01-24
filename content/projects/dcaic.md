@@ -11,4 +11,6 @@ Understanding the complex relationship between brain activity and behavior is on
 
 #### People
 
+{{< people "dcaic-team" >}}
+
 #### Alumni

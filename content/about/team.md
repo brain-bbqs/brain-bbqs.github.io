@@ -3,6 +3,7 @@ title: Meet the BBQS Team
 linkTitle: BBQS Team
 type: docs
 weight: 10
+draft: true
 ---
 
 ## BBQS leadership
@@ -36,17 +37,17 @@ weight: 10
 
 ## Full team
 
-- University of Massachusetts Chan Medical School, Worcester, MA
-    - David Kennedy, Principal Investigator
-        - Julie Bates, Administrative Core
-        - Christian Haselgrove, Senior Software Engineer
-        - Steven Hodge, Data Analyst and Statistician
-
 - Massachusetts Institute of Technology, Cambridge, MA
     - Satra Ghosh, Project Lead
-        - Yibei Chen, Postdoctoral Researcher
-        - Tek Raj Chhetri, Postdoctoral Researcher
-        - Dorota Jarecka, Research Scientist
+        - Harsha Gazula, Research Scientist
+
+- University of Massachusetts Chan Medical School, Worcester, MA
+    - David Kennedy, Principal Investigator
+        <!-- - Julie Bates, Administrative Core
+        - Christian Haselgrove, Senior Software Engineer
+        - Steven Hodge, Data Analyst and Statistician -->
+
+
 
 <!-- - Dartmouth College, Hanover, NH
     - Yaroslav Halchenko, Project Lead
@@ -72,8 +73,8 @@ weight: 10
 - Preuss Enterprises, Inc.
     - Nina Preuss, Investigator -->
 
-## Directory
+<!-- ## Directory -->
 
-BBQS alumni are indicated by asterisks.
+<!-- BBQS alumni are indicated by asterisks. -->
 
-{{< people "repronim-team" >}}
+<!-- {{< people "repronim-team" >}} -->

@@ -18,9 +18,9 @@ markup:
 
 menu:
   main:
-    - name: Help
-      pageRef: /help/
-      weight: 10
+    # - name: Help
+    #   pageRef: /help/
+    #   weight: 10
     - name: About
       pageRef: /about/
       weight: 2

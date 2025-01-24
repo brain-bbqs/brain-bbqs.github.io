@@ -1,5 +1,5 @@
 ---
-title: Devices
+title: WG-Devices
 type: docs
 weight: 20
 ---
@@ -11,4 +11,6 @@ weight: 20
 #### Taskforce(s)
 
 #### Working Group Chairs
-TBD
+- TBD
+
+**_Mailing List_**: wg-devices@brain-bbqs.org
