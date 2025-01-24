@@ -3,6 +3,7 @@ title: ReproNim Monthly Webinar Series
 linkTitle: Webinar Series
 type: docs
 weight: 50
+draft: true
 ---
 
 The ReproNim webinar series introduces important efforts in reproducibility featuring presentations by both ReproNim and guest investigators.
