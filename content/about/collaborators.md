@@ -252,7 +252,6 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 ### NIH R24 (Resource-Related Research Projects)
 
-<a href="https://brain-bbqs.github.io/projects/ember/">
 <div class="hover-block" onclick="openPage('/projects/ember')">
 
 - [Ecosystem for Multi-modal Brain-behavior Experimentation and Research (EMBER)](https://reporter.nih.gov/search/WmrQyaKHvkSe5KZfddP37w/project-details/10888659)
@@ -261,7 +260,6 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 - [Project Home](/projects/ember)
 
 </div>
-</a>
 
 <script>
  function openPage(pageUrl){
