@@ -58,7 +58,7 @@ params:
     displayTitle: Brain Behavior Quantization and Synchronization
     displayLogo: true
     logo:
-      path: images/logo-square-256.png
+      path: images/logo-square-256.jpg
       width: 50
 
   footer:

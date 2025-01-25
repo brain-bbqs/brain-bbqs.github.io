@@ -7,7 +7,7 @@ toc: false
     h2, p { text-align: center; }
 </style>
 
-<img src="images/logo-square-256.png" alt="Brain Behavior Quantization and Synchronization (BBQS)" width="350"/>
+<img src="images/bbqs-image.gif" alt="Brain Behavior Quantization and Synchronization (BBQS)" width="400"/>
 
 ## Vision
 
