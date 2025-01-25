@@ -236,7 +236,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 </div>
 
-### NIH U24 Program
+### U24 Data Coordination and AI Center (DCAIC)
 
 <div class="hover-block" onclick="openPage('/projects/dcaic')">
 
@@ -250,7 +250,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 
 </div>
 
-### NIH R24 (Resource-Related Research Projects)
+### R24 Data repository
 
 <div class="hover-block" onclick="openPage('/projects/ember')">
 
