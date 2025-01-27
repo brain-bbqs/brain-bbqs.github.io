@@ -1,18 +1,29 @@
 ---
-title: Meet the BBQS Team
-linkTitle: BBQS Team
+title: Meet the DCAIC Team
+linkTitle: DCAIC Team
 type: docs
 weight: 10
-draft: true
+toc: false
 ---
 
-## BBQS leadership
+## DCAIC leadership
 
-- [David Kennedy](https://profiles.umassmed.edu/display/130002) ReproNim PI - ReproNim: A Center for Reproducible Neuroimaging Computation
+- [Satrajit Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/)
+    - Principal Research Scientist, [McGovern Institute for Brain Research](https://satra.cogitatum.org/), M.I.T., Cambridge, MA
+        - Director, [Senseable Intelligence Group](https://sensein.group/), M.I.T./Harvard Medical School
+    - Assistant Professor of Otolaryngology, Harvard Medical School, Boston, MA
+        - Faculty, Speech and Hearing Biosciences and Technology, Harvard Division of Medical Sciences
+
+- [David N. Kennedy](https://profiles.umassmed.edu/display/130002)
     - Professor of Psychiatry and Radiology, UMass Chan Medical School, Worcester, MA
         - Founding Director, Division of Neuroinformatics
         - Founding Co-Director, Child and Adolescent Neurodevelopment Initiative (CANDI) Lab
     - Founding Director, Center for Reproducible Neuroimaging Computation ([ReproNim](https://www.umassmed.edu/news/news-archives/2022/02/david-kennedy-awarded-$6-million-repronim-brain-imaging-grant/))
+  
+- [Laura Cabrera](https://rockethics.psu.edu/people/laura-cabrera/)
+    - Associate Professor of Engineering Science and Mechanics, and Philosophy
+      - Dorothy Foehr Huck and J. Lloyd Huck Career Chair in Neuroethics
+    - Senior Research Associate in the Rock Ethics Institute
 <!-- - [Maryann Martone](https://profiles.ucsd.edu/maryann.martone) Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
     - Professor Emerita of Neuroscience, UC San Diego Health Sciences, San Diego, CA
         - Founding Co-Director, [FAIR Data Informatics Lab](https://www.fdilab.org/team) at UCSD
@@ -20,11 +31,7 @@ draft: true
 - [Jeffrey Grethe](https://profiles.ucsd.edu/jeffrey.grethe) Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
     - Associate Director, Center for Research in Biological Systems, Neurosciences, UC San Diego Health Sciences, San Diego, CA
         - Founding Co-Director, [FAIR Data Informatics Lab](https://www.fdilab.org/team) at UCSD -->
-- [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) Project 2 Lead - Improving Research Efficiency through Better Descriptors (DESCRIBE)
-    - Principal Research Scientist, [McGovern Institute for Brain Research](https://satra.cogitatum.org/), M.I.T., Cambridge, MA
-        - Director, [Senseable Intelligence Group](https://sensein.group/), M.I.T./Harvard Medical School
-    - Assistant Professor of Otolaryngology, Harvard Medical School, Boston, MA
-        - Faculty, Speech and Hearing Biosciences and Technology, Harvard Division of Medical Sciences
+
 <!-- - [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/yaroslav-o-halchenko-0) Project 3 Lead - Efficient and Reproducible Execution from Data Collection to Processing (DO)
     - Research Associate Professor of Psychological and Brain Sciences, Dartmouth College, Hanover, NH
         - Founding Director, [Center for Open Neuroscience](https://centerforopenneuroscience.org/whoweare), Psychological and Brain Sciences, Dartmouth College, Hanover, NH
@@ -38,7 +45,7 @@ draft: true
 ## Full team
 
 - Massachusetts Institute of Technology, Cambridge, MA
-    - Satra Ghosh, Project Lead
+    - Satrajit Ghosh, Project Lead
         - Harsha Gazula, Research Scientist
 
 - University of Massachusetts Chan Medical School, Worcester, MA
@@ -46,8 +53,8 @@ draft: true
         <!-- - Julie Bates, Administrative Core
         - Christian Haselgrove, Senior Software Engineer
         - Steven Hodge, Data Analyst and Statistician -->
-
-
+- Penn State University, University Park, PA
+    - Laura Cabrera, Principal Investigator
 
 <!-- - Dartmouth College, Hanover, NH
     - Yaroslav Halchenko, Project Lead
@@ -77,4 +84,4 @@ draft: true
 
 <!-- BBQS alumni are indicated by asterisks. -->
 
-<!-- {{< people "repronim-team" >}} -->
+{{< people "dcaic-team" >}}
