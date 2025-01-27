@@ -10,5 +10,6 @@ Neuroscience research has historically relied on observing tightly controlled be
 </div>
 
 #### People
+{{< people "team-ember" >}}
 
 #### Alumni

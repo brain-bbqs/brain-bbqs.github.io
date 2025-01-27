@@ -84,4 +84,4 @@ toc: false
 
 <!-- BBQS alumni are indicated by asterisks. -->
 
-{{< people "dcaic-team" >}}
+{{< people "team-dcaic" >}}
