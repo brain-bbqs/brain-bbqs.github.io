@@ -14,7 +14,7 @@ Working groups are essential to the success of a consortium project, as they bri
 - WG-Standards
 
 #### Working Group Chairs
-- WG-Analytics: [Bouchard, Kristofer E](KEBouchard@lbl.gov)
+- WG-Analytics: [Bouchard, Kristofer E](KEBouchard@lbl.gov), [Yi, Han G](Han.Yi@jhuapl.edu)
 - WG-Devices: TBD
 - WG-ELSI: [Cabrera, Laura](mailto:lcabrera@psu.edu)
 - WG-Standards: [Ruebel, Oliver](oruebel@lbl.gov), [Struhl, Melissa K](mekline@mit.edu)
