@@ -7,7 +7,7 @@ toc: false
 ---
 
 ### About
-The Data Coordination and Artificial Intelligence Center (DCAIC, pronounced as *dee-cake*) will act as a data management and sharing hub for Brain Behavior Quantification and Synchronization (BBQS) supported projects. DCAIC will oversee activities in five interrelated categories:
+The Data Coordination and Artificial Intelligence Center (DCAIC, pronounced as *dee-cake*) will act as a data management and sharing hub for BBQS projects. DCAIC will oversee activities in five interrelated categories:
 
 1. Data Management
 2. Data Standards 
