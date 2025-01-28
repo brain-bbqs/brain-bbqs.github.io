@@ -23,6 +23,9 @@ menu:
     #   weight: 10
     - name: About
       pageRef: /about/
+      weight: 1
+    - name: Projects
+      pageRef: /projects/
       weight: 2
     - name: Working Groups
       pageRef: /working-groups/
@@ -39,9 +42,7 @@ menu:
     - name: Calendar
       pageRef: /calendar/
       weight: 6
-    - name: Projects
-      pageRef: /projects/
-      weight: 7
+
     # - name: Participate
     #   pageRef: /participate/
     #   weight: 7
