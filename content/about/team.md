@@ -87,6 +87,7 @@ The BBQS research program is characterized by certain features and challenges th
 - Massachusetts Institute of Technology, Cambridge, MA
     - Satrajit Ghosh, Principal Investigator
         - Harsha Gazula, Research Scientist
+        - Jyl Boline, Project Manager
     - Melissa Kline Struhl, Research Scientist
 
 - University of Massachusetts Chan Medical School, Worcester, MA
