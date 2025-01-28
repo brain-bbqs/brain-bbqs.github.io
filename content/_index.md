@@ -18,7 +18,7 @@ To gain a comprehensive mechanistic understanding of the neural basis of behavio
 - Developing tools to capture and quantify behavior with high temporal resolution and across multiple dimensions
 - Synchronizing with simultaneously recorded brain activity
 - Building new conceptual and computational models that capture the complexity of behavior
-- Establishing a cross-disciplinary consortium to develop, integrate and disseminate tools, research designs, and ethical frameworks
+- Establishing a cross-disciplinary consortium to develop, integrate, and disseminate tools, research designs, and ethical frameworks
 
 {{< rn-buttons >}}
     <!-- {{< rn-button 

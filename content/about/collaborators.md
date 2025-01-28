@@ -256,7 +256,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/ember')">
 
 - [Ecosystem for Multi-modal Brain-behavior Experimentation and Research (EMBER)](https://reporter.nih.gov/search/WmrQyaKHvkSe5KZfddP37w/project-details/10888659)
-- PI(s): [Wester, Brock A](mailto:Brock.Wester@jhuapl.edu),
+- PI(s): [Wester, Brock A](mailto:Brock.Wester@jhuapl.edu)
 - Institution(s): Johns Hopkins University (Applied Physics Laboratory)
 - [Project Home](/projects/ember)
 
