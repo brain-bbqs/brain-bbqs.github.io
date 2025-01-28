@@ -61,6 +61,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_01')">
 
 - P01: [A modeling framework and arena for measuring contextual influences of behavior](https://reporter.nih.gov/search/lVXfsunpaUqfmTQW0jRXmA/project-details/10786801)
+  - Award #: R34DA059510
   - PI(s): [Dyer, Eva](mailto:evadyer@gatech.edu),
     [McGrath, Patrick T](mailto:patrick.mcgrath@biology.gatech.edu)\*
   - Institution(s): Georgia Institute of Technology
@@ -71,6 +72,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_02')">
 
 - P02: [Behavioral quantification through active learning and multidimensional physiological monitoring](https://reporter.nih.gov/search/9wx4cEt5ske-A88YXC9tyA/project-details/10786800)
+  - Award #: R34DA059509  
   - PI(s): [Grover, Pulkit](mailto:pgrover@andrew.cmu.edu),
     [Kuang, Zheng](mailto:zhengkua@andrew.cmu.edu),
     [Rubin, Jonathan E](mailto:jonrubin@pitt.edu),
@@ -83,7 +85,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_03')">
 
 - P03: [Computational attribution and fusion of vocalizations, social behavior, and neural recordings in a naturalistic environment](https://reporter.nih.gov/search/rGFBDprnTkuFAoKdn5poIQ/project-details/10786899)
-
+  - Award #: R34DA059513
   - PI(s): [Sanes, Dan Harvey](mailto:dhs1@nyu.edu)\*,
     [Schneider, David Michael](mailto:david.schneider@nyu.edu),
     [Williams, Alexander Henry](mailto:ahwillia@stanford.edu)
@@ -95,7 +97,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_04')">
 
 - P04: [Development of a smart aviary to probe neural dynamics of complex social behaviors in a gregarious songbird](https://reporter.nih.gov/search/8oyFUGQ1mUW_hivhx91O7A/project-details/10786687)
-
+  - Award #: R34DA059507
   - PI(s): [Aflatouni, Firooz](mailto:firooz@seas.upenn.edu),
     [Balasubramanian, Vijay](mailto:vijay@physics.upenn.edu),
     [Daniilidis, Kostas](mailto:kostas@cis.upenn.edu),
@@ -108,7 +110,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_05')">
 
 - P05: [Harnessing biological rhythms for a resilient social motif generator](https://reporter.nih.gov/search/O078sWhnFkaeTno7iDSyBw/project-details/10797723)
-
+  - Award #: R34DA059718
   - PI(s): [Padilla Coreano, Nancy ](mailto:npadillacoreano@ufl.edu)\*,
     [Saxena, Shreya](mailto:shreya.saxena@yale.edu),
     [Wesson, Daniel W](mailto:danielwesson@ufl.edu)
@@ -120,7 +122,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_06')">
 
 - P06: [High-resolution 3D tracking of social behaviors for deep phenotypic analysis](https://reporter.nih.gov/search/t8WADFOb80WhM891u1bwgg/project-details/10786685)
-
+  - Award #: R34DA059506
   - PI(s): [Dunn, Timothy William](mailto:timothy.dunn@duke.edu)\*,
     [Olveczky, Bence P](mailto:olveczky@fas.harvard.edu)
   - Institution(s): Duke University, Harvard University
@@ -131,7 +133,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_07')">
 
 - P07: [High-throughput, high-resolution 3D measurement of ethologically relevant rodent behavior in a dynamic environment](https://reporter.nih.gov/search/KBKLXTA2UEOKMLhYCQIvZg/project-details/10786883)
-
+  - Award #: R34DA059512
   - PI(s): [Dunn, Timothy William](mailto:timothy.dunn@duke.edu)\*,
     [Field, Gregory Darin](mailto:greg.d.field@gmail.com),
     [Tadross, Michael R](mailto:michael.tadross@duke.edu)
@@ -143,7 +145,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_08')">
 
 - P08: [Interpersonal behavioral synchrony in virtual and in-person dyadic conversation](https://reporter.nih.gov/search/PkNqY-ET0kW0D3SfO6MoLA/project-details/10797870)
-
+  - Award #: R34DA059716
   - PI(s): [Corcoran, Cheryl Mary](mailto:cheryl.corcoran@mssm.edu)\*,
     [Grinband, Jack](mailto:jg2269@cumc.columbia.edu),
     [Parvaz, Muhammad Adeel](mailto:muhammad.parvaz@mssm.edu)
@@ -155,7 +157,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_09')">
 
 - P09: [Multimodal behavioral analysis of oromanual food-handling in freely moving animals](https://reporter.nih.gov/search/5Wc6Oe9LGk6OglJVMNeRKw/project-details/10795435)
-
+  - Award #: R34DA059723
   - PI(s): [Shepherd, Gordon M](mailto:g-shepherd@northwestern.edu)
   - Institution(s): Northwestern University
   - [Project Home](/projects/r34_09)
@@ -165,7 +167,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_10')">
 
 - P10: [Towards High-Resolution Neuro-Behavioral Quantification of Sheep in the Field to Study Complex Social Behaviors](https://reporter.nih.gov/search/5Wc6Oe9LGk6OglJVMNeRKw/project-details/10786956)
-
+  - Award #: R34DA059514
   - PIs: [Kemere, Caleb](mailto:caleb.kemere@rice.edu)
   - Institution(s): Rice University
   - [Project Home](/projects/r34_10)
@@ -175,7 +177,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r34_11')">
 
 - P11: [Transformative Optical Imaging of Brain & Behavior in Navigating Genetic Species](https://reporter.nih.gov/search/ftmhALHbiUCuSoFidVtlvQ/project-details/10786461)
-
+  - Award #: R34DA059500
   - PI(s): [Nagel, Katherine](mailto:katherine.nagel@nyumc.org),
     [Schoppik, David](mailto:david.schoppik@nyulangone.org)\*,
     [Shaner, Nathan Christopher](mailto:ncshaner@ucsd.edu),
@@ -190,6 +192,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r61_01')">
 
 - P01: [Synchronized neuronal and peripheral biomarker recordings in freely moving humans](https://reporter.nih.gov/search/iYWuFLFKV02NMxjmWYBzoA/project-details/10792386)
+  - Award #: R61MH135106
   - PI(s): [Suthana, Nanthia A](mailto:nsuthana@mednet.ucla.edu)
   - Institution(s): University of California, Los Angeles
   - [Project Home](/projects/r61_01/)
@@ -199,6 +202,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r61_02')">
 
 - P02: [Capturing Autobiographical memory formation in People moving Through real-world spaces Using synchronized wearables and intracranial Recordings of EEG](https://reporter.nih.gov/search/d5uHWn4kKEmuyUDa6pyaNg/project-details/10792324)
+  - Award #: R61MH135109
   - PI(s): [Inman, Cory Shields](mailto:cory.inman@psych.utah.edu)
   - Institution(s): University of Utah
   - [Project Home](/projects/r61_02/)
@@ -208,6 +212,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r61_03')">
 
 - P03: [Integrated movement tracking for pediatric OPM-MEG studies of intellectual disability](https://reporter.nih.gov/search/OyGvzxrwu0mcaz0ainOjYw/project-details/10792146)
+  - Award #: R61MH135114
   - PI(s): [Welsh, John P](mailto:jpwelsh@uw.edu)\*,
     [Roberts, Timothy P](mailto:robertstim@chop.edu)
   - Institution(s): Seattle Children's Hospital, Children's Hospital of Philadelphia
@@ -218,6 +223,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r61_04')">
 
 - P04: [Developing the Context-Aware Multimodal Ecological Research and Assessment (CAMERA) Platform for Continuous Measurement and Prediction of Anxiety and Memory State](https://reporter.nih.gov/search/mVgOCnwbrEKKmaPwBpSCqQ/project-details/10801782)
+  - Award #: R61MH135405
   - PI(s): [Jacobs, Joshua](mailto:joshua.jacobs@columbia.edu)\*,
     [Ortiz, Jorge](mailto:jorge.ortiz@rutgers.edu),
     [Widge, Alik S](mailto:awidge@umn.edu),
@@ -230,6 +236,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/r61_05')">
 
 - P05: [Novel multimodal neural, physiological, and behavioral sensing and machine learning for mental states](https://reporter.nih.gov/search/asKY5_5QYEehWfAu-Lbsiw/project-details/10800578)
+  - Award #: R61MH135407
   - PI(s): [Shanechi, Maryam](mailto:shanechi@usc.edu)
   - Institution(s): University of Southern California
   - [Project Home](/projects/r61_05/)
@@ -241,7 +248,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/dcaic')">
 
 - [BBQS AI Resource and Data Coordinating Center (BARD.CC)](https://reporter.nih.gov/search/NfCIRcP5c0eqWjzBvOjD_g/project-details/10888562)
-
+  - Award #: U24MH136628
   - PI(s): [Ghosh, Satrajit](mailto:satra@mit.edu)\*,
     [Cabrera, Laura](mailto:lcabrera@psu.edu),
     [Kennedy, David N](mailto:David.Kennedy@umassmed.edu)
@@ -255,9 +262,10 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 <div class="hover-block" onclick="openPage('/projects/ember')">
 
 - [Ecosystem for Multi-modal Brain-behavior Experimentation and Research (EMBER)](https://reporter.nih.gov/search/WmrQyaKHvkSe5KZfddP37w/project-details/10888659)
-- PI(s): [Wester, Brock A](mailto:Brock.Wester@jhuapl.edu),
-- Institution(s): Johns Hopkins University (Applied Physics Laboratory)
-- [Project Home](/projects/ember)
+  - Award #: R24MH136632
+  - PI(s): [Wester, Brock A](mailto:Brock.Wester@jhuapl.edu),
+  - Institution(s): Johns Hopkins University (Applied Physics Laboratory)
+  - [Project Home](/projects/ember)
 
 </div>
 
