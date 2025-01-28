@@ -106,8 +106,8 @@ The BBQS research program is characterized by certain features and challenges th
     - Kailin Zhuang, Graduate Researcher
   - Oliver Ruebel
   
-## Directory
+<!-- ## Directory
 
 BBQS alumni are indicated by asterisks.
 
-{{< people "team-dcaic" >}}
+{{< people "team-dcaic" >}} -->
