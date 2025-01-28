@@ -2,6 +2,7 @@
 title: Funded Projects
 type: docs
 weight: 30
+draft: true
 ---
 
 <!-- Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborators in both [Collaborative Projects](#collaborative-projects) and [Service Projects](#service-projects).
