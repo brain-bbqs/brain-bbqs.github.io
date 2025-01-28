@@ -11,7 +11,7 @@ weight: 40
 #### Taskforce(s)
 
 #### Standards Working Group Chair(s)
-- [Ruebel, Oliver](oruebel@lbl.gov)
-- [Kline Struhl, Melissa](mekline@mit.edu)
+- [Ruebel, Oliver](mailto:oruebel@lbl.gov)
+- [Kline Struhl, Melissa](mailto:mekline@mit.edu)
 
 **_Mailing List_**: wg-standards@brain-bbqs.org

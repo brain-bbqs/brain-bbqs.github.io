@@ -11,7 +11,7 @@ weight: 10
 #### Taskforce(s)
 
 #### Working Group Chairs
-- [Bouchard, Kristofer E](KEBouchard@lbl.gov)
-- [Yi, Han G](Han.Yi@jhuapl.edu)
+- [Bouchard, Kristofer E](mailto:KEBouchard@lbl.gov)
+- [Yi, Han G](mailto:Han.Yi@jhuapl.edu)
 
 **_Mailing List_**: wg-analytics@brain-bbqs.org
