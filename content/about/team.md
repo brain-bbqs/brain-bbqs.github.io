@@ -19,7 +19,7 @@ The BBQS research program is characterized by certain features and challenges th
 
 ### Principal Investigators
 
-- [Satrajit Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) (Data Manaagement)
+- [Satrajit Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) (Data Management)
     - Principal Research Scientist, [McGovern Institute for Brain Research](https://satra.cogitatum.org/), M.I.T., Cambridge, MA
         - Director, [Senseable Intelligence Group](https://sensein.group/), M.I.T./Harvard Medical School
     - Assistant Professor of Otolaryngology, Harvard Medical School, Boston, MA
