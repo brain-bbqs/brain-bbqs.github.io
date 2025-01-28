@@ -18,7 +18,7 @@ weight: 30
         <img src="/images/logos/nyu.png" alt="New York University logo", title="NYU">
     </div>
     <div>
-        <img src="/images/logos/stanford.png" alt="Stanford University logo", title="Stanford">
+        <!-- <img src="/images/logos/stanford.png" alt="Stanford University logo", title="Stanford"> -->
         <img src="/images/logos/upenn.png" alt="University of Pennsylvania logo", title="UPenn">
         <img src="/images/logos/ufl.png" alt="University of Florida logo", title="Florida">
         <img src="/images/logos/yale.png" alt="Yale University logo", title="Yale">
@@ -87,7 +87,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - PI(s): [Sanes, Dan Harvey](mailto:dhs1@nyu.edu)\*,
     [Schneider, David Michael](mailto:david.schneider@nyu.edu),
     [Williams, Alexander Henry](mailto:ahwillia@stanford.edu)
-  - Institution(s): New York University, Stanford University
+  - Institution(s): New York University
   - [Project Home](/projects/r34_03)
 
   </div>
