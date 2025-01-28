@@ -20,29 +20,21 @@ To gain a comprehensive mechanistic understanding of the neural basis of behavio
 - Building new conceptual and computational models that capture the complexity of behavior
 - Establishing a cross-disciplinary consortium to develop, integrate and disseminate tools, research designs, and ethical frameworks
 
-<!-- {{< rn-buttons >}}
-    {{< rn-button 
-        link="/resources/getting-started/" 
-        title="Getting Started" 
-        image="/images/sec-started2.webp" 
-        subtitle="Getting started with ReproNim" 
-    >}}
-    {{< rn-button 
+{{< rn-buttons >}}
+    <!-- {{< rn-button 
         link="/resources/tools/" 
         title="Tools" 
         image="/images/tools.webp" 
         subtitle="ReproNim tools" 
+    >}} -->
+    {{< rn-button 
+        link="https://www.youtube.com/@brain-bbqs" 
+        image="/images/youtube.png" 
     >}}
     {{< rn-button 
-        link="/fellowship/" 
-        title="Fellowship" 
-        image="/images/sec-fellowship2.webp" 
-        subtitle="ReproNim Fellowship Program" 
+    link="https://github.com/brain-bbqs" 
+    image="/images/github.png" 
     >}}
-    {{< rn-button 
-        link="/about/why/" 
-        title="Why" 
-        image="/images/sec-why2.webp" 
-        subtitle="Why reproducible neuroimaging" 
-    >}}
-{{< /rn-buttons >}} -->
+{{< /rn-buttons >}}
+
+<!-- <p align="center"><iframe width="600" height="315" src="https://www.youtube.com/embed/UrvmYz41wsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p> -->
