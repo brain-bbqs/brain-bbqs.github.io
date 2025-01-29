@@ -58,7 +58,7 @@ weight: 20
 
 The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in P41 Technology and Research Development projects. -->
 <link rel="stylesheet" href="/css/projects.css">
-<div class="hover-block" onclick="openPage('/projects/r34_01')">
+<div class="hover-block">
 
 - P01: [A modeling framework and arena for measuring contextual influences of behavior](https://reporter.nih.gov/search/lVXfsunpaUqfmTQW0jRXmA/project-details/10786801)
   - Award #: R34DA059510
@@ -66,6 +66,10 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [McGrath, Patrick T](mailto:patrick.mcgrath@biology.gatech.edu)\*
   - Institution(s): Georgia Institute of Technology
   - [Summary](/projects/r34_01)
+
+{{< details >}}
+Social behaviors are essential for survival and reproduction. They also evolve quite rapidly and can vary even among closely related species. Traditionally, social behaviors are very difficult to study because of the complexity of their input, requiring conspecifics to trigger aggressive, cooperative, parental, or reproductive behaviors. Additionally, contextual data is important, such as hierarchical status and environmental factors can also play a role. T his grant will propose to create a behavioral arena capable of mimicking natural environments that are required for social reproductive behaviors, including interactions between a large number of conspecifics, environmental factors such as male displays, and contextual data such as hierarchical status between various males. Tools will be created to track animals in this arena and build a computational frame work to measure and compare social behavioral dynamics. This work will utilize Lake Malawi cichlids, a powerful evolutionary model for identification of genes and neural circuit changes associated with differences in behavior. This project will generate new tools and datasets for modeling social behaviors, paving the way for a large-scale R01.
+{{< /details >}}
 
 </div>
 
