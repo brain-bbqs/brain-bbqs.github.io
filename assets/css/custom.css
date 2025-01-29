@@ -4,7 +4,7 @@
 
   /* https://blanla.com/show-hide-element-html-css/ */
 details> summary {
-  list-style-type: "Click to expand"; /* This removes the default arrow */
+  list-style-type: "+ Click to expand"; /* This removes the default arrow */
   cursor: pointer;
   position: relative;
   margin-left: 0px;
@@ -15,7 +15,7 @@ details> summary {
 }
 
 details[open] > summary {
-  list-style-type: "Click to collapse";
+  list-style-type: "- Click to collapse";
   font-weight: bold;
   font-style: italic;
 }
