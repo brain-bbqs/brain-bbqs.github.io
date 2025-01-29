@@ -65,7 +65,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - PI(s): [Dyer, Eva](mailto:evadyer@gatech.edu),
     [McGrath, Patrick T](mailto:patrick.mcgrath@biology.gatech.edu)\*
   - Institution(s): Georgia Institute of Technology
-  - [Project Home](/projects/r34_01)
+  - [Summary](/projects/r34_01)
 
 </div>
 
@@ -78,7 +78,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Rubin, Jonathan E](mailto:jonrubin@pitt.edu),
     [Yttri, Eric](mailto:eyttri@andrew.cmu.edu)\*
   - Institution(s): Carnegie Mellon University, University of Pittsburgh
-  - [Project Home](/projects/r34_02)
+  - [Summary](/projects/r34_02)
 
 </div>
 
@@ -90,7 +90,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Schneider, David Michael](mailto:david.schneider@nyu.edu),
     [Williams, Alexander Henry](mailto:ahwillia@stanford.edu)
   - Institution(s): New York University
-  - [Project Home](/projects/r34_03)
+  - [Summary](/projects/r34_03)
 
   </div>
 
@@ -103,7 +103,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Daniilidis, Kostas](mailto:kostas@cis.upenn.edu),
     [Schmidt, Marc F](mailto:marcschm@sas.upenn.edu)\*
   - Institution(s): University of Pennsylvania
-  - [Project Home](/projects/r34_04)
+  - [Summary](/projects/r34_04)
 
   </div>
 
@@ -115,7 +115,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Saxena, Shreya](mailto:shreya.saxena@yale.edu),
     [Wesson, Daniel W](mailto:danielwesson@ufl.edu)
   - Institution(s): University of Florida, Yale University
-  - [Project Home](/projects/r34_05)
+  - [Summary](/projects/r34_05)
 
   </div>
 
@@ -126,7 +126,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - PI(s): [Dunn, Timothy William](mailto:timothy.dunn@duke.edu)\*,
     [Olveczky, Bence P](mailto:olveczky@fas.harvard.edu)
   - Institution(s): Duke University, Harvard University
-  - [Project Home](/projects/r34_06)
+  - [Summary](/projects/r34_06)
 
   </div>
 
@@ -138,7 +138,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Field, Gregory Darin](mailto:greg.d.field@gmail.com),
     [Tadross, Michael R](mailto:michael.tadross@duke.edu)
   - Institution(s): Duke University
-  - [Project Home](/projects/r34_07)
+  - [Summary](/projects/r34_07)
 
   </div>
 
@@ -150,7 +150,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Grinband, Jack](mailto:jg2269@cumc.columbia.edu),
     [Parvaz, Muhammad Adeel](mailto:muhammad.parvaz@mssm.edu)
   - Institution(s): Icahn School of Medicine at Mount Sinai, Columbia University
-  - [Project Home](/projects/r34_08)
+  - [Summary](/projects/r34_08)
 
   </div>
 
@@ -160,7 +160,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - Award #: R34DA059723
   - PI(s): [Shepherd, Gordon M](mailto:g-shepherd@northwestern.edu)
   - Institution(s): Northwestern University
-  - [Project Home](/projects/r34_09)
+  - [Summary](/projects/r34_09)
 
   </div>
 
@@ -170,7 +170,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - Award #: R34DA059514
   - PIs: [Kemere, Caleb](mailto:caleb.kemere@rice.edu)
   - Institution(s): Rice University
-  - [Project Home](/projects/r34_10)
+  - [Summary](/projects/r34_10)
 
   </div>
 
@@ -183,7 +183,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Shaner, Nathan Christopher](mailto:ncshaner@ucsd.edu),
     [Wang, Jane](mailto:zw24@cornell.edu)
   - Institution(s): New York University School of Medicine, University of California San Diego, Cornell University
-  - [Project Home](/projects/r34_11)
+  - [Summary](/projects/r34_11)
 
   </div>
 
@@ -195,7 +195,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - Award #: R61MH135106
   - PI(s): [Suthana, Nanthia A](mailto:nsuthana@mednet.ucla.edu)
   - Institution(s): University of California, Los Angeles
-  - [Project Home](/projects/r61_01/)
+  - [Summary](/projects/r61_01/)
 
 </div>
 
@@ -205,7 +205,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - Award #: R61MH135109
   - PI(s): [Inman, Cory Shields](mailto:cory.inman@psych.utah.edu)
   - Institution(s): University of Utah
-  - [Project Home](/projects/r61_02/)
+  - [Summary](/projects/r61_02/)
 
 </div>
 
@@ -216,7 +216,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - PI(s): [Welsh, John P](mailto:jpwelsh@uw.edu)\*,
     [Roberts, Timothy P](mailto:robertstim@chop.edu)
   - Institution(s): Seattle Children's Hospital, Children's Hospital of Philadelphia
-  - [Project Home](/projects/r61_03/)
+  - [Summary](/projects/r61_03/)
 
 </div>
 
@@ -229,7 +229,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Widge, Alik S](mailto:awidge@umn.edu),
     [Youngerman, Brett E](mailto:bey2103@cumc.columbia.edu)
   - Institution(s): Columbia University Health Sciences, Rutgers University, University of Minnesota-Twin Cities
-  - [Project Home](/projects/r61_04/)
+  - [Summary](/projects/r61_04/)
 
 </div>
 
@@ -239,7 +239,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - Award #: R61MH135407
   - PI(s): [Shanechi, Maryam](mailto:shanechi@usc.edu)
   - Institution(s): University of Southern California
-  - [Project Home](/projects/r61_05/)
+  - [Summary](/projects/r61_05/)
 
 </div>
 
@@ -253,7 +253,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [Cabrera, Laura](mailto:lcabrera@psu.edu),
     [Kennedy, David N](mailto:David.Kennedy@umassmed.edu)
   - Institution(s): Massachusetts Institute of Technology, Penn State, UMass Chan Medical School
-  - [Project Home](/projects/dcaic)
+  - [Summary](/projects/dcaic)
 
 </div>
 
@@ -265,7 +265,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
   - Award #: R24MH136632
   - PI(s): [Wester, Brock A](mailto:Brock.Wester@jhuapl.edu),
   - Institution(s): Johns Hopkins University (Applied Physics Laboratory)
-  - [Project Home](/projects/ember)
+  - [Summary](/projects/ember)
 
 </div>
 
