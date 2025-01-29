@@ -1,6 +1,7 @@
 ---
 title: Resources
 type: docs
+draft: true
 ---
 
 This section is dedicated to how to make use of the ReproNim ecosystem.  It includes tools, training materials, and tutorials on how to use ReproNim resources to improve the reproducibility of your neuroimaging studies.  

@@ -1,5 +1,6 @@
 ---
 title: Participate
+draft: true
 ---
 
 ReproNim is dedicated to making neuroimaging research openly reproducible across a wide spectrum of research endeavors.
