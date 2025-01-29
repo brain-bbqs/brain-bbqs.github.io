@@ -1,6 +1,7 @@
 ---
 title: 'BBQS Announcements'
 toc: false
+weight: 40
 ---
 
 New hires, publications, awards, conferences, etc.

@@ -1,6 +1,6 @@
 ---
 title: Job Board
-
+weight: 50
 ---
 
 {{< cards >}}

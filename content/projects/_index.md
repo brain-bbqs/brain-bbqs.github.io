@@ -1,7 +1,7 @@
 ---
 title: Projects
 type: docs
-weight: 30
+weight: 20
 ---
 
 <!-- Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborators in both [Collaborative Projects](#collaborative-projects) and [Service Projects](#service-projects).
