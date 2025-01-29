@@ -1,3 +1,16 @@
 .content {
     font-family: Palatino, Times, serif;
   }
+
+  /* https://blanla.com/show-hide-element-html-css/ */
+  details> summary {
+    list-style-type: none; /* This removes the default arrow */
+    cursor: pointer;
+    position: relative;
+    margin-left: 0px;
+    align-items: justify; 
+}
+
+/* details[open] > summary {
+  list-style-type: 'v';
+} */
