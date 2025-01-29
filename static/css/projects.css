@@ -3,7 +3,7 @@
   padding: 15px;
   border-radius: 35px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  transition: background-color 0.3s ease;  /* Smooth transition on hover */
+  /* transition: background-color 0.3s ease;  Smooth transition on hover */
 }
 
 /* Hover effect on the entire block */
@@ -12,4 +12,3 @@
   background-color: #e0e0e0;  
 }
 */
-/* Light grey background when hovering */
