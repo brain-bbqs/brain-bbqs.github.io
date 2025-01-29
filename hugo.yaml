@@ -18,9 +18,6 @@ markup:
 
 menu:
   main:
-    # - name: Help
-    #   pageRef: /help/
-    #   weight: 10
     - name: About
       pageRef: /about/
       weight: 1
@@ -30,9 +27,6 @@ menu:
     - name: Working Groups
       pageRef: /working-groups/
       weight: 3
-    # - name: Resources
-    #   pageRef: /resources/
-    #   weight: 3
     - name: Announcements
       pageRef: /announcements/
       weight: 4
@@ -42,13 +36,6 @@ menu:
     - name: Calendar
       pageRef: /calendar/
       weight: 6
-
-    # - name: Participate
-    #   pageRef: /participate/
-    #   weight: 7
-    # - name: Contact ↗
-    #   url: "https://github.com/imfing"
-    #   weight: 15
     - name: Search
       weight: 20
       params:
@@ -78,4 +65,4 @@ params:
 deployment:
     targets:
         name: public
-        URL: s3://dev.brain-bbqs.org
+        URL: https://brain-bbqs.org
