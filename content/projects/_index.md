@@ -17,7 +17,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     [McGrath, Patrick T](mailto:patrick.mcgrath@biology.gatech.edu)\* \
 **_Institution(s)_** - Georgia Institute of Technology
   {{< details >}}
-  Social behaviors are essential for survival and reproduction. They also evolve quite rapidly and can vary even among closely related species. Traditionally, social behaviors are very difficult to study because of the complexity of their input, requiring conspecifics to trigger aggressive, cooperative, parental, or reproductive behaviors. Additionally, contextual data is important, such as hierarchical status and environmental factors can also play a role. T his grant will propose to create a behavioral arena capable of mimicking natural environments that are required for social reproductive behaviors, including interactions between a large number of conspecifics, environmental factors such as male displays, and contextual data such as hierarchical status between various males. Tools will be created to track animals in this arena and build a computational frame work to measure and compare social behavioral dynamics. This work will utilize Lake Malawi cichlids, a powerful evolutionary model for identification of genes and neural circuit changes associated with differences in behavior. This project will generate new tools and datasets for modeling social behaviors, paving the way for a large-scale R01.
+  Social behaviors are essential for survival and reproduction. They also evolve quite rapidly and can vary even among closely related species. Traditionally, social behaviors are very difficult to study because of the complexity of their input, requiring conspecifics to trigger aggressive, cooperative, parental, or reproductive behaviors. Additionally, contextual data is important, such as hierarchical status and environmental factors can also play a role. This grant will propose to create a behavioral arena capable of mimicking natural environments that are required for social reproductive behaviors, including interactions between a large number of conspecifics, environmental factors such as male displays, and contextual data such as hierarchical status between various males. Tools will be created to track animals in this arena and build a computational frame work to measure and compare social behavioral dynamics. This work will utilize Lake Malawi cichlids, a powerful evolutionary model for identification of genes and neural circuit changes associated with differences in behavior. This project will generate new tools and datasets for modeling social behaviors, paving the way for a large-scale R01.
   {{< /details >}}
 </div>
 
@@ -48,7 +48,7 @@ Social vocalizations and movement-generated sounds often provide pivotal knowled
 
 <div class="hover-block">
 
-**_R34DA059507_** - [Development of a smart aviary to probe neural dynamics of complex social behaviors in a gregarious songbird](https://reporter.nih.gov/search/8oyFUGQ1mUW_hivhx91O7A/project-details/10786687)
+**_R34DA059507_** - [Development of a smart aviary to probe neural dynamics of complex social behaviors in a gregarious songbird](https://reporter.nih.gov/search/8oyFUGQ1mUW_hivhx91O7A/project-details/10786687) \
 **_PI(s)_** - [Aflatouni, Firooz](mailto:firooz@seas.upenn.edu),
     [Balasubramanian, Vijay](mailto:vijay@physics.upenn.edu),
     [Daniilidis, Kostas](mailto:kostas@cis.upenn.edu),

@@ -38,4 +38,4 @@ The program is open by competitive review to applicants at all career stages.
 
 ## Contact us
 
-Email us at admin@brain-bbqs.org.
+Email us at [dcaic-admin@brain-bbqs.org](mailto:dcaic-admin@brain-bbqs.org)
