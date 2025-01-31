@@ -26,7 +26,12 @@ To gain a comprehensive mechanistic understanding of the neural basis of behavio
         image="/images/youtube.png" 
     >}}
     {{< rn-button 
+    link="https://bsky.app/profile/brain-bbqs.bsky.social" 
+    image="/images/bluesky.png" 
+    >}}
+    {{< rn-button 
     link="https://github.com/brain-bbqs" 
     image="/images/github.png" 
     >}}
+
 {{< /rn-buttons >}}
