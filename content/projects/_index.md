@@ -273,49 +273,7 @@ Neuroscience research has historically relied on observing tightly controlled be
 
 ### Institutions
 
-<link rel="stylesheet" href="/css/logos.css">
-<div class="container logos">
-    <div class="logos-1">
-        <img src="/images/logos/mit.png" alt="Massachusetts Institute of Technology logo", title="MIT">
-        <img src="/images/logos/gatech.png" alt="Georgia Institute of Technology logo", title="Georgia Tech">
-        <img src="/images/logos/cmu.png" alt="Carnegie Mellon University logo", title="CMU">
-        <img src="/images/logos/pitt.png" alt="University of Pittsburgh logo", title="Pitt">
-        <img src="/images/logos/nyu.png" alt="New York University logo", title="NYU">
-    </div>
-    <div>
-        <!-- <img src="/images/logos/stanford.png" alt="Stanford University logo", title="Stanford"> -->
-        <img src="/images/logos/upenn.png" alt="University of Pennsylvania logo", title="UPenn">
-        <img src="/images/logos/ufl.png" alt="University of Florida logo", title="Florida">
-        <img src="/images/logos/yale.png" alt="Yale University logo", title="Yale">
-        <img src="/images/logos/duke.png" alt="Duke University logo", title="Duke">
-    </div>
-    <div>
-        <img src="/images/logos/harvard.png" alt="Harvard University logo", title="Harvard">
-        <img src="/images/logos/issms.png" alt="Icahn School of Medicine at Mount Sinai logo", title="Mount Sinai">
-        <img src="/images/logos/columbia.png" alt="Columbia University logo", title="Columbia">
-        <img src="/images/logos/northwestern.png" alt="Northwestern University logo", title="Northwestern">
-        <img src="/images/logos/rice.png" alt="Rice University logo", title="Rice">
-    </div>
-    <div>
-        <img src="/images/logos/nyu-langone.png" alt="NYU Langone Health logo", title="NYU Langine Health">
-        <img src="/images/logos/ucsd.png" alt="University of California San Diego logo", title="UC San Diego">
-        <img src="/images/logos/cornell.png" alt="Cornell University logo", title="Cornell">
-        <img src="/images/logos/ucla.png" alt="University of California at Los Angeles logo", title="UCLA">
-        <img src="/images/logos/uofutah.png" alt="University of Utah logo", title="Utah">
-    </div>
-    <div>
-        <img src="/images/logos/sea-child.png" alt="Seattle Children's logo", title="Seattle's Children">
-        <img src="/images/logos/chop.png" alt="Children's Hospital of Philadelphia logo", title="The Children's Hospital of Philadelphia">
-        <img src="/images/logos/rutgers.png" alt="Rutgers University logo", title="Rutgers">
-        <img src="/images/logos/umn.png" alt="University of Minnesota Twin Cities logo", title="University of Minnesota">
-        <img src="/images/logos/usc.png" alt="University of Southern California logo", title="USC">
-    </div>
-    <div>
-        <img src="/images/logos/pennstate.png" alt="Penn State University logo", title="Penn State">
-        <img src="/images/logos/umasschan.png" alt="UMass Chan Medical School logo", title="UMass Chan Medical School">
-        <img src="/images/logos/jhu.png" alt="Johns Hopkins University logo", title="Johns Hopkins">
-    </div>
-</div>
+{{< institutions >}}
 
 <script>
  function openPage(pageUrl){
@@ -324,16 +282,3 @@ Neuroscience research has historically relied on observing tightly controlled be
 </script>
 
 \*Contact PI/Project Lead
-
-<script>
-  const details = document.getElementById('details');
-  const summary = document.getElementById('summary');
-  
-  details.addEventListener('toggle', function() {
-    if (details.open) {
-      summary.textContent = 'Click to hide details'; // Change text when expanded
-    } else {
-      summary.textContent = 'Click to see more details'; // Change text back when collapsed
-    }
-  });
-</script>

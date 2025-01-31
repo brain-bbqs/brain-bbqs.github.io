@@ -6,7 +6,7 @@ weight: 10
 
 The Brain Behavior Quantification and Synchronization (BBQS) program is a basic research effort to develop new tools and approaches in support of a more comprehensive mechanistic understanding of the neural basis of behavior.
 
-<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/UrvmYz41wsA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+{{< ytube UrvmYz41wsA >}}
 
 ## Goals
 
