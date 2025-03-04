@@ -224,7 +224,7 @@ This project seeks to develop the CAMERA (Context-Aware Multimodal Ecological Re
 
 <div class="hover-block">
 
-**_U24MH136628_** - [Novel multimodal neural, physiological, and behavioral sensing and machine learning for mental states](https://reporter.nih.gov/search/asKY5_5QYEehWfAu-Lbsiw/project-details/10800578) \
+**_R61MH135407_** - [Novel multimodal neural, physiological, and behavioral sensing and machine learning for mental states](https://reporter.nih.gov/search/asKY5_5QYEehWfAu-Lbsiw/project-details/10800578) \
 **_PI(s)_** - [Shanechi, Maryam](mailto:shanechi@usc.edu) \
 **_Institution(s)_** - University of Southern California
 {{< details >}}
