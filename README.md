@@ -1,4 +1,4 @@
-# Brain Behavior Quantization and Synchronization (BBQS)
+# Brain Behavior Quantification and Synchronization (BBQS)
 
 Please visit our website by clicking [here](https://brain-bbqs.github.io)
 

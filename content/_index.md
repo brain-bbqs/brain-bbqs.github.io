@@ -1,5 +1,5 @@
 ---
-title: 'BBQS: Brain Behavior Quantization and Synchronization'
+title: 'BBQS: Brain Behavior Quantification and Synchronization'
 toc: false
 ---
 
@@ -7,7 +7,7 @@ toc: false
     h2, p { text-align: center; }
 </style>
 
-<img src="images/bbqs-image.gif" alt="Brain Behavior Quantization and Synchronization (BBQS)" width="400"/>
+<img src="images/bbqs-image.gif" alt="Brain Behavior Quantification and Synchronization (BBQS)" width="400"/>
 
 ## Vision
 

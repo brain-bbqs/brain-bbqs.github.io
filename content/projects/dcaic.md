@@ -6,7 +6,7 @@ sidebar:
   exclude: true
 ---
 
-<img src="/images/logo-square-256.jpg" alt="Brain Behavior Quantization and Synchronization (BBQS)" width="400"/>
+<img src="/images/logo-square-256.jpg" alt="Brain Behavior Quantification and Synchronization (BBQS)" width="400"/>
 
 #### Project Summary
 <div style="text-align: justify">
