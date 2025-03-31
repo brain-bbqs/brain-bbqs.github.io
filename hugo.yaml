@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: Brain Behavior Quantization and Synchronization
+title: Brain Behavior Quantification and Synchronization
 
 # import hextra as module
 module:
@@ -43,7 +43,7 @@ menu:
 
 params:
   navbar:
-    displayTitle: Brain Behavior Quantization and Synchronization
+    displayTitle: Brain Behavior Quantification and Synchronization
     displayLogo: true
     logo:
       path: images/logo-square-256.jpg
