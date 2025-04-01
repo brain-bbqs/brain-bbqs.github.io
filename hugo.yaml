@@ -27,15 +27,18 @@ menu:
     - name: Working Groups
       pageRef: /working-groups/
       weight: 3
+    - name: Resources
+      pageRef: /resources/
+      weight: 4
     - name: Announcements
       pageRef: /announcements/
-      weight: 4
+      weight: 5
     - name: Job Board
       pageRef: /job-board/
-      weight: 5
+      weight: 6
     - name: Calendar
       pageRef: /calendar/
-      weight: 6
+      weight: 7
     - name: Search
       weight: 20
       params:
