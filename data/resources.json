@@ -1,0 +1,248 @@
+{
+  "resources": [
+    {
+      "id": "superanimal-quadruped",
+      "name": "DLC SuperAnimal-Quadruped",
+      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-SuperAnimal-Quadruped",
+      "description": "DeepLabCut pre-trained model supporting quadruped animals.",
+      "type": "model",
+      "categories": ["pose estimation", "model"],
+      "animals": ["quadruped"],
+      "tags": ["DeepLabCut", "pre-trained"]
+    },
+    {
+      "id": "superanimal-topviewmouse",
+      "name": "DLC SuperAnimal-TopViewMouse",
+      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-SuperAnimal-TopViewMouse",
+      "description": "DeepLabCut pre-trained model supporting overhead mouse data.",
+      "type": "model",
+      "categories": ["pose estimation", "model"],
+      "animals": ["mouse"],
+      "tags": ["DeepLabCut", "pre-trained", "top-view"]
+    },
+    {
+      "id": "superanimal-bird",
+      "name": "DLC SuperAnimal-Bird",
+      "url": "https://huggingface.co/DeepLabCut/DeepLabCutModelZoo-SuperAnimal-Bird",
+      "description": "DeepLabCut pre-trained model for birds.",
+      "type": "model",
+      "categories": ["pose estimation", "model"],
+      "animals": ["bird"],
+      "tags": ["DeepLabCut", "pre-trained"]
+    },
+    {
+      "id": "full-human-body",
+      "name": "DLC Full Human Body",
+      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-DLC_human_fullbody_resnet_101",
+      "description": "DeepLabCut pre-trained model for full human body pose estimation.",
+      "type": "model",
+      "categories": ["pose estimation", "model"],
+      "animals": ["human"],
+      "tags": ["DeepLabCut", "pre-trained"]
+    },
+    {
+      "id": "macaque",
+      "name": "DLC Macaque",
+      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-macaque_full",
+      "description": "DeepLabCut pre-trained model for macaques.",
+      "type": "model",
+      "categories": ["pose estimation", "model"],
+      "animals": ["macaque", "primate"],
+      "tags": ["DeepLabCut", "pre-trained"]
+    },
+    {
+      "id": "primate-face",
+      "name": "DLC Primate Face",
+      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-primate_face",
+      "description": "DeepLabCut pre-trained model for primate facial pose estimation.",
+      "type": "model",
+      "categories": ["pose estimation", "model"],
+      "animals": ["primate"],
+      "tags": ["DeepLabCut", "pre-trained", "facial"]
+    },
+    {
+      "id": "horse-sideview",
+      "name": "DLC Horse Sideview",
+      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-horse_sideview",
+      "description": "DeepLabCut pre-trained model for horse sideview pose estimation.",
+      "type": "model",
+      "categories": ["pose estimation", "model"],
+      "animals": ["horse"],
+      "tags": ["DeepLabCut", "pre-trained", "sideview"]
+    },
+    {
+      "id": "mouse-pupil",
+      "name": "DLC Mouse Pupil",
+      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-mouse_pupil_vclose/tree/main",
+      "description": "DeepLabCut pre-trained model for tracking mouse pupil movements.",
+      "type": "model",
+      "categories": ["pose estimation", "model"],
+      "animals": ["mouse"],
+      "tags": ["DeepLabCut", "pre-trained", "pupil"]
+    },
+    {
+      "id": "dlc-3d-markerless",
+      "name": "Using DeepLabCut for 3D Markerless Pose Estimation",
+      "url": "https://www.nature.com/articles/s41467-024-48792-2",
+      "description": "Guidance on DLC for 3D pose estimation.",
+      "type": "paper",
+      "categories": ["paper", "protocol", "pose estimation"],
+      "animals": [],
+      "tags": ["DeepLabCut", "3D", "markerless", "protocol", "tutorial"]
+    },
+    {
+      "id": "dlc-markerless",
+      "name": "DeepLabCut: Markerless Pose Estimation",
+      "url": "https://www.nature.com/articles/s41467-024-48792-2",
+      "description": "Foundational paper on DLC technology.",
+      "type": "paper",
+      "categories": ["paper", "pose estimation"],
+      "animals": [],
+      "tags": ["DeepLabCut", "markerless", "foundational"]
+    },
+    {
+      "id": "deepercut",
+      "name": "DeeperCut: Multi-person Pose Estimation",
+      "url": "https://arxiv.org/abs/1605.03170",
+      "description": "High-performance multi-person pose estimation.",
+      "type": "paper",
+      "categories": ["paper", "pose estimation"],
+      "animals": ["human"],
+      "tags": ["DeeperCut", "multi-person", "human"]
+    },
+    {
+      "id": "superanimal-quadruped-80k",
+      "name": "SuperAnimal-Quadruped-80K",
+      "url": "https://zenodo.org/records/10619173",
+      "description": "Dataset aggregating quadruped animal images.",
+      "type": "dataset",
+      "categories": ["dataset"],
+      "animals": ["quadruped"],
+      "tags": ["DeepLabCut", "quadruped", "images"]
+    },
+    {
+      "id": "superanimal-topviewmouse-5k",
+      "name": "SuperAnimal-TopViewMouse-5K",
+      "url": "https://zenodo.org/records/10618947",
+      "description": "Dataset aggregating top-view mouse images.",
+      "type": "dataset",
+      "categories": ["dataset"],
+      "animals": ["mouse"],
+      "tags": ["DeepLabCut", "mouse", "top-view", "images"]
+    },
+    {
+      "id": "dlc-benchmarks",
+      "name": "DeepLabCut Benchmarks",
+      "url": "https://benchmark.deeplabcut.org/datasets.html",
+      "description": "Various benchmarks for animal pose estimation including TRI-MOUSE, PARENTING-MOUSE, MARMOSETS, FISH, HORSE-30.",
+      "type": "benchmark",
+      "categories": ["benchmark", "dataset"],
+      "animals": ["mouse", "marmoset", "fish", "horse"],
+      "tags": ["DeepLabCut", "benchmark", "tri-mouse", "parenting-mouse", "marmosets", "fish", "horse-30"]
+    },
+    {
+      "id": "animal-pose-leaderboard",
+      "name": "Animal Pose Estimation Leaderboard",
+      "url": "https://paperswithcode.com/task/animal-pose-estimation",
+      "description": "Comparative leaderboard for animal pose estimation methods.",
+      "type": "leaderboard",
+      "categories": ["leaderboard", "pose estimation"],
+      "animals": [],
+      "tags": ["leaderboard", "comparative", "methods", "animal pose"]
+    },
+    {
+      "id": "dlc-leaderboard",
+      "name": "DeepLabCut Leaderboard",
+      "url": "https://benchmark.deeplabcut.org/",
+      "description": "Comparative leaderboard for DLC benchmarks.",
+      "type": "leaderboard",
+      "categories": ["leaderboard", "pose estimation"],
+      "animals": [],
+      "tags": ["DeepLabCut", "leaderboard", "benchmark", "comparative"]
+    }
+  ],
+  "categories": [
+    {
+      "id": "pose-estimation",
+      "name": "Pose Estimation",
+      "description": "Techniques and resources for analyzing animal movement."
+    },
+    {
+      "id": "model",
+      "name": "Model",
+      "description": "Pre-trained models for various applications."
+    },
+    {
+      "id": "paper",
+      "name": "Paper",
+      "description": "Scientific publications related to behavioral research."
+    },
+    {
+      "id": "protocol",
+      "name": "Protocol",
+      "description": "Step-by-step guides and methodologies."
+    },
+    {
+      "id": "dataset",
+      "name": "Dataset",
+      "description": "Collections of data for training and benchmarking."
+    },
+    {
+      "id": "benchmark",
+      "name": "Benchmark",
+      "description": "Standard tests for comparing model performance."
+    },
+    {
+      "id": "leaderboard",
+      "name": "Leaderboard",
+      "description": "Platforms comparing algorithm performance."
+    }
+  ],
+  "animals": [
+    {
+      "id": "quadruped",
+      "name": "Quadruped",
+      "description": "Four-legged animals"
+    },
+    {
+      "id": "mouse",
+      "name": "Mouse",
+      "description": "Laboratory and wild mice"
+    },
+    {
+      "id": "bird",
+      "name": "Bird",
+      "description": "Avian species"
+    },
+    {
+      "id": "human",
+      "name": "Human",
+      "description": "Human subjects"
+    },
+    {
+      "id": "macaque",
+      "name": "Macaque",
+      "description": "Macaque monkeys"
+    },
+    {
+      "id": "primate",
+      "name": "Primate",
+      "description": "Non-human primates"
+    },
+    {
+      "id": "horse",
+      "name": "Horse",
+      "description": "Equine species"
+    },
+    {
+      "id": "marmoset",
+      "name": "Marmoset",
+      "description": "Small New World monkeys"
+    },
+    {
+      "id": "fish",
+      "name": "Fish",
+      "description": "Aquatic vertebrates"
+    }
+  ]
+}
