@@ -20,6 +20,51 @@ This list provides resources relevant to BBQS projects and working groups. These
 
 <div class="resource-list">
 
+### General Tools
+
+<div class="resource-item" data-categories="entity tracking" data-animals="Multi-Animal">
+  <h4><a href="https://idtracker.ai/latest/">idtracker.ai</a></h4>
+  <p>Open-source multi-animal tracking software that can identify and track up to 100 unmarked animals in video, maintaining individual identities throughout the recording.​</p>
+  <div class="resource-tags">
+    <span class="category-pill" data-category="entity tracking"">Entity Tracking</span>
+    <span class="animal-pill" data-animal="multi-animal">Multi-Animal</span>
+  </div>
+</div>
+
+<div class="resource-item" data-categories="behavioral analysis" data-animals="Multi-Animal">
+  <h4><a href="https://github.com/sgoldenlab/simba?tab=readme-ov-file">SimBA - Simple Behavioral Analysis</a></h4>
+  <p>Open-source pipeline and GUI for developing supervised behavioral classifiers. Supports DLC, DeepPoseKit, SLEAP, MARS and others.​</p>
+  <div class="resource-tags">
+    <span class="category-pill" data-category="behavioral analysis">Behavioral Analysis</span>
+    <span class="animal-pill" data-animal="multi-animal">Multi-Animal</span>
+  </div>
+</div>
+
+<div class="resource-item" data-categories="data collection" data-animals="">
+  <h4><a href="https://open-ephys.org/bonsai">Bonsai</a></h4>
+  <p>Visual programming language for synchronizing and processing heterogeneous data streams in real time</p>
+  <div class="resource-tags">
+    <span class="category-pill" data-category="data collection">Data Collection</span>
+  </div>
+</div>
+
+<div class="resource-item" data-categories="data collection" data-animals="">
+  <h4><a href="labstreaminglayer.org">LabStreamingLayer (LSL)</a></h4>
+  <p>Middleware framework for streaming and synchronizing multiple data sources (e.g. EEG, motion tracking, video, etc.) over a network.​</p>
+  <div class="resource-tags">
+    <span class="category-pill" data-category="data collection">Data Collection</span>
+  </div>
+</div>
+
+<div class="resource-item" data-categories="experimental design,hardware" data-animals="">
+  <h4><a href="https://open-ephys.org/">Open Ephys</a></h4>
+  <p>Open-source platform for electrophysiology hardware and software.​</p>
+  <div class="resource-tags">
+    <span class="category-pill" data-category="experimental design">Experimental Design</span>
+    <span class="category-pill" data-category="hardware">Hardware</span>
+  </div>
+</div>
+
 ### Models
 
 <div class="resource-item" data-categories="pose estimation,model" data-animals="quadruped">
@@ -103,36 +148,15 @@ This list provides resources relevant to BBQS projects and working groups. These
   </div>
 </div>
 
-### Papers and Protocols
-
-<div class="resource-item" data-categories="paper,protocol,pose estimation" data-animals="">
-  <h4><a href="https://www.nature.com/articles/s41467-024-48792-2">Using DeepLabCut for 3D Markerless Pose Estimation</a></h4>
-  <p>Guidance on DLC for 3D pose estimation.</p>
+<div class="resource-item" data-categories="neural,data analysis,model" data-animals="">
+  <h4><a href="https://cebra.ai/">CEBRA: Consistent EmBeddings of high-dimensional Recordings using Auxiliary variables</a></h4>
+  <p>Machine-learning method that can be used to compress time series in a way that reveals otherwise hidden structures in the variability of the data</p>
   <div class="resource-tags">
-    <span class="category-pill" data-category="paper">Paper</span>
-    <span class="category-pill" data-category="protocol">Protocol</span>
-    <span class="category-pill" data-category="pose estimation">Pose Estimation</span>
+    <span class="category-pill" data-category="neural">Neural Data</span>
+    <span class="category-pill" data-category="data analysis">Data Analysis</span>
   </div>
 </div>
 
-<div class="resource-item" data-categories="paper,pose estimation" data-animals="">
-  <h4><a href="https://www.nature.com/articles/s41467-024-48792-2">DeepLabCut: Markerless Pose Estimation</a></h4>
-  <p>Foundational paper on DLC technology.</p>
-  <div class="resource-tags">
-    <span class="category-pill" data-category="paper">Paper</span>
-    <span class="category-pill" data-category="pose estimation">Pose Estimation</span>
-  </div>
-</div>
-
-<div class="resource-item" data-categories="paper,pose estimation" data-animals="human">
-  <h4><a href="https://arxiv.org/abs/1605.03170">DeeperCut: Multi-person Pose Estimation</a></h4>
-  <p>High-performance multi-person pose estimation.</p>
-  <div class="resource-tags">
-    <span class="category-pill" data-category="paper">Paper</span>
-    <span class="category-pill" data-category="pose estimation">Pose Estimation</span>
-    <span class="animal-pill" data-animal="human">Human</span>
-  </div>
-</div>
 
 ### Benchmarks and Datasets
 
@@ -167,6 +191,7 @@ This list provides resources relevant to BBQS projects and working groups. These
   </div>
 </div>
 
+
 ### Leaderboards
 
 <div class="resource-item" data-categories="leaderboard,pose estimation" data-animals="">
@@ -187,12 +212,43 @@ This list provides resources relevant to BBQS projects and working groups. These
   </div>
 </div>
 
+### Papers and Protocols
+
+<div class="resource-item" data-categories="paper,protocol,pose estimation" data-animals="">
+  <h4><a href="https://www.nature.com/articles/s41467-024-48792-2">Using DeepLabCut for 3D Markerless Pose Estimation</a></h4>
+  <p>Guidance on DLC for 3D pose estimation.</p>
+  <div class="resource-tags">
+    <span class="category-pill" data-category="paper">Paper</span>
+    <span class="category-pill" data-category="protocol">Protocol</span>
+    <span class="category-pill" data-category="pose estimation">Pose Estimation</span>
+  </div>
+</div>
+
+<div class="resource-item" data-categories="paper,pose estimation" data-animals="">
+  <h4><a href="https://www.nature.com/articles/s41467-024-48792-2">DeepLabCut: Markerless Pose Estimation</a></h4>
+  <p>Foundational paper on DLC technology.</p>
+  <div class="resource-tags">
+    <span class="category-pill" data-category="paper">Paper</span>
+    <span class="category-pill" data-category="pose estimation">Pose Estimation</span>
+  </div>
+</div>
+
+<div class="resource-item" data-categories="paper,pose estimation" data-animals="human">
+  <h4><a href="https://arxiv.org/abs/1605.03170">DeeperCut: Multi-person Pose Estimation</a></h4>
+  <p>High-performance multi-person pose estimation.</p>
+  <div class="resource-tags">
+    <span class="category-pill" data-category="paper">Paper</span>
+    <span class="category-pill" data-category="pose estimation">Pose Estimation</span>
+    <span class="animal-pill" data-animal="human">Human</span>
+  </div>
+</div>
+
 </div>
 
 ### Contribution
 To add resources or update existing entries, please reach out to the BBQS team or submit via our [GitHub repository](#).
 
 ### Future Plans
-We are working on integrating a chatbot that will connect to a database of JSON-organized resources, making it even easier to find the information you need. Stay tuned for updates.
+We are working on integrating a chatbot that will connect to a database of JSON-organized resources, making it even easier to find the information you need. We are also working on an ingestion tool that will make it easier to add and update entries! Stay tuned for updates.
 
 <script src="/js/resource-search.js"></script>
