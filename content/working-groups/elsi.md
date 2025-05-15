@@ -17,7 +17,6 @@ To achieve this overarching goal, the Working Group will meet with the ELSI Scie
 
 #### Documentation
 - [Working Group Charter](https://docs.google.com/document/d/1GnGAAeUUrkO5dvk_P3zXjjF0HiiIBGyy/edit?usp=sharing&ouid=117099683135763927535&rtpof=true&sd=true)
-- Working Group Guidance _(Coming Soon)_
 
 #### Resources
 _(Coming Soon)_

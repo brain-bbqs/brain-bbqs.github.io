@@ -18,7 +18,6 @@ To achieve this overarching goal of ensuring FAIR standards for data and models 
 
 #### Documentation
   * [Working Group Charter](https://docs.google.com/document/d/1WXW1P3-OZguuQq_aXYoFgNDhJrU5ZO8jfyb22STL2io/edit?usp=sharing)
-  * Working Group Guidance _(Coming Soon)_
 
 #### Resources
   * _(Coming Soon)_
