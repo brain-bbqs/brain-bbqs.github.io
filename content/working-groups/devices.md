@@ -5,6 +5,7 @@ weight: 20
 draft: true
 ---
 
+We are looking for leads for this working group. If you are interested, please [email the admin team](mailto:bbqs-admin@brain-bbqs.org).
 #### Purpose
 
 #### Deliverables
