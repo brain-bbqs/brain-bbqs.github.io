@@ -40,8 +40,10 @@ by working with BBQS and data standards bodies and teams to:
 #### Resources
 _(Coming Soon)_
 
-#### Standards Working Group Chairs
-- [Ruebel, Oliver](mailto:oruebel@lbl.gov)
-- [Kline Struhl, Melissa](mailto:mekline@mit.edu)
+#### Chairs
+- [Oliver Ruebel](https://dav.lbl.gov/~oruebel/)
+- [Melissa Kline Struhl](https://eccl.mit.edu/team-profiles/melissa-kline-struhl)
 
-**_Mailing List_**: wg-standards@brain-bbqs.org
+#### Connect with the group
+&nbsp;&nbsp;&nbsp;&nbsp;**Chairs**: wg-chairs@brain-bbqs.org\
+&nbsp;&nbsp;&nbsp;&nbsp;**Mailing List**: wg-standards@brain-bbqs.org

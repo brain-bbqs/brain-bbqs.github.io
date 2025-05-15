@@ -14,7 +14,7 @@ To achieve this overarching goal of ensuring FAIR standards for data and models 
   * evaluate and curate relevant ML/AI models and platforms, 
   * assist with aggregating datasets, models, and other ML/AI resources from both within and outside the BBQS consortium. 
 
-#### Taskforce(s)
+<!-- #### Taskforce(s) -->
 
 #### Documentation
   * [Working Group Charter](https://docs.google.com/document/d/1WXW1P3-OZguuQq_aXYoFgNDhJrU5ZO8jfyb22STL2io/edit?usp=sharing)
@@ -23,8 +23,10 @@ To achieve this overarching goal of ensuring FAIR standards for data and models 
 #### Resources
   * _(Coming Soon)_
 
-#### Analytics Working Group Chairs
-  * [Bouchard, Kristofer E](mailto:KEBouchard@lbl.gov)
-  * [Yi, Han G](mailto:Han.Yi@jhuapl.edu)
+#### Chairs
+- [Kristofer Bouchard](https://biosciences.lbl.gov/profiles/kristofer-e-bouchard/)
+- [Han Yi](https://scholar.google.com/citations?user=MdrCoqAAAAAJ&hl=en)
 
-**_Mailing List_**: wg-analytics@brain-bbqs.org
+#### Connect with the group
+&nbsp;&nbsp;&nbsp;&nbsp;**Chairs**: wg-chairs@brain-bbqs.org\
+&nbsp;&nbsp;&nbsp;&nbsp;**Mailing List**: wg-analytics@brain-bbqs.org

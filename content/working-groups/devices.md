@@ -2,16 +2,19 @@
 title: WG-Devices
 type: docs
 weight: 20
-draft: true
 ---
 
 We are looking for leads for this working group. If you are interested, please [email the admin team](mailto:bbqs-admin@brain-bbqs.org).
 
-#### Purpose
+<!-- #### Purpose
+
+_(Coming Soon)_
 
 #### Deliverables
 
-<!-- #### Taskforce(s) -->
+_(Coming Soon)_
+
+#### Taskforce(s)
 
 #### Documentation
 - Working Group Charter _(Coming Soon)_
@@ -21,6 +24,6 @@ We are looking for leads for this working group. If you are interested, please [
 _(Coming Soon)_
 
 #### Working Group Chairs
-- TBD
+- TBD -->
 
 **_Mailing List_**: wg-devices@brain-bbqs.org

@@ -22,7 +22,9 @@ To achieve this overarching goal, the Working Group will meet with the ELSI Scie
 #### Resources
 _(Coming Soon)_
 
-#### ELSI Working Group Chair
-- [Cabrera, Laura](mailto:lcabrera@psu.edu)
+#### Chair
+- [Laura Cabrera](https://rockethics.psu.edu/people/laura-cabrera/)
 
-**_Mailing List_**: wg-elsi@brain-bbqs.org
+#### Connect with the group
+&nbsp;&nbsp;&nbsp;&nbsp;**Chairs**: wg-chairs@brain-bbqs.org\
+&nbsp;&nbsp;&nbsp;&nbsp;**Mailing List**: wg-elsi@brain-bbqs.org
