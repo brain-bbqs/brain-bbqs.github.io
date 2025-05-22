@@ -35,13 +35,12 @@ by working with BBQS and data standards bodies and teams to:
 
 #### Documentation
 - [Working Group Charter](https://docs.google.com/document/d/1WIVI8HZF4-IfZZ61UjCZx2K7NyYx_CaTuIHmhFo7eYw/edit?usp=sharing)
-- Standards Guidelines _(Coming Soon)_
 
 #### Resources
-_(Coming Soon)_
+- [Standards Guidelines](https://docs.google.com/document/d/1vIJ01La9G76FfGywS3IbG4o1GR4qquS31MoJ2B4_4os/edit?usp=sharing)
 
 #### Chairs
-- [Oliver Ruebel](https://dav.lbl.gov/~oruebel/)
+- [Oliver Ruebel](https://crd.lbl.gov/divisions/scidata/computational-biosciences/members/staff/oliver-ruebel-bio/)
 - [Melissa Kline Struhl](https://eccl.mit.edu/team-profiles/melissa-kline-struhl)
 
 #### Connect with the group
