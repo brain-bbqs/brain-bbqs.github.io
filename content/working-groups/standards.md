@@ -37,6 +37,7 @@ by working with BBQS and data standards bodies and teams to:
 - [Working Group Charter](https://docs.google.com/document/d/1WIVI8HZF4-IfZZ61UjCZx2K7NyYx_CaTuIHmhFo7eYw/edit?usp=sharing)
 
 #### Resources
+- [View Standards Resources](/resources?search=WG-Standards)
 - [Standards Guidelines](https://docs.google.com/document/d/1vIJ01La9G76FfGywS3IbG4o1GR4qquS31MoJ2B4_4os/edit?usp=sharing)
 
 #### Chairs

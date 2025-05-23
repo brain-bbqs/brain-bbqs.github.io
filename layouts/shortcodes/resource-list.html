@@ -1,0 +1,65 @@
+{{ $res := resources.Get "resources.json" }}
+{{ $data := $res | transform.Unmarshal }}
+
+{{ $resourceTypes := dict
+  "tool" "General Tools"
+  "model" "Models"
+  "dataset" "Datasets"
+  "benchmark" "Benchmarks"
+  "paper" "Papers & Protocols"
+  "platform" "Platforms & Archives"
+  "standard" "Standards & Ontologies"
+}}
+
+{{ $typeDescriptions := dict
+  "tool" "Software tools, libraries, or scripts used for analysis, visualization, tracking, etc."
+  "model" "Pre-trained or reference AI/ML models."
+  "dataset" "Collections of behavioral, neural, or multimodal data."
+  "benchmark" "Evaluation suites or tasks used to compare models or methods."
+  "paper" "Academic publications, protocols, or documentation for methods."
+  "platform" "Platforms or infrastructures that host, organize, or distribute data/tools."
+  "standard" "Definitions, formats, and ontologies to structure and share data consistently."
+}}
+
+{{ $displayOrder := slice "tool" "model" "dataset" "benchmark" "paper" "platform" "standard" }}
+{{ $processedHeadings := dict }}
+
+{{ range $type := $displayOrder }}
+  {{ $heading := index $resourceTypes $type }}
+  {{ $resourcesForThisType := where $data.resources "type" $type }}
+  {{ if and $heading (not (isset $processedHeadings $heading)) (gt (len $resourcesForThisType) 0) }}
+    <div class="resource-type-section" data-type="{{ $type }}">
+      <h3>{{ $heading }}</h3>
+      {{ with index $typeDescriptions $type }}
+        <p class="resource-type-description">{{ . }}</p>
+      {{ end }}
+      <div class="resource-type-items">
+        {{ range $resourcesForThisType }}
+          <div class="resource-item"
+               data-categories="{{ delimit .categories "," | lower }}"
+               data-animals="{{ delimit .animals "," | lower }}"
+               data-tags="{{ delimit .tags "," | lower }}">
+            <h4><a href="{{ .url }}">{{ .name }}</a></h4>
+            <p>{{ .description }}</p>
+            <div class="resource-tags">
+              {{ range .categories }}
+                {{ $categoryID := . | lower }}
+                {{ $categoryData := first 1 (where $data.categories "id" $categoryID) }}
+                {{ $categoryName := $categoryID | title }}
+                {{ if $categoryData }}{{ $categoryName = (index $categoryData 0).name }}{{ end }}
+                <span class="category-pill" data-category="{{ $categoryID }}">{{ $categoryName }}</span>
+              {{ end }}
+              {{ range .animals }}
+                {{ $animalID := . | lower }}
+                {{ $animalData := first 1 (where $data.animals "id" $animalID) }}
+                {{ $animalName := $animalID | title }}
+                {{ if $animalData }}{{ $animalName = (index $animalData 0).name }}{{ end }}
+                <span class="animal-pill" data-animal="{{ $animalID }}">{{ $animalName }}</span>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+{{ end }}

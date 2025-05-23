@@ -21,7 +21,7 @@ _(Coming Soon)_
 - Working Group Guidance _(Coming Soon)_
 
 #### Resources
-_(Coming Soon)_
+  * [View Devices Resources](/resources?search=WG-Devices)
 
 #### Working Group Chairs
 - TBD -->

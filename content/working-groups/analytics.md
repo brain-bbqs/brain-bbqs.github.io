@@ -20,7 +20,7 @@ To achieve this overarching goal of ensuring FAIR standards for data and models 
   * [Working Group Charter](https://docs.google.com/document/d/1WXW1P3-OZguuQq_aXYoFgNDhJrU5ZO8jfyb22STL2io/edit?usp=sharing)
 
 #### Resources
-  * _(Coming Soon)_
+  * [View Analytics Resources](/resources?search=WG-Analytics)
 
 #### Chairs
 - [Kristofer Bouchard](https://biosciences.lbl.gov/profiles/kristofer-e-bouchard/)
