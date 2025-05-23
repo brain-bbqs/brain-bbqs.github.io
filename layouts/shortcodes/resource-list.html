@@ -1,17 +1,27 @@
 {{ $res := resources.Get "resources.json" }}
 {{ $data := $res | transform.Unmarshal }}
 
-{{ $resourceTypes := dict 
-  "tool" "General Tools" 
-  "model" "Models" 
-  "dataset" "Benchmarks and Datasets" 
-  "benchmark" "Benchmarks and Datasets" 
-  "leaderboard" "Leaderboards" 
-  "paper" "Papers and Protocols" 
-  "protocol" "Papers and Protocols"
+{{ $resourceTypes := dict
+  "tool" "General Tools"
+  "model" "Models"
+  "dataset" "Datasets"
+  "benchmark" "Benchmarks"
+  "paper" "Papers & Protocols"
+  "platform" "Platforms & Archives"
+  "standard" "Standards & Ontologies"
 }}
 
-{{ $displayOrder := slice "tool" "model" "dataset" "benchmark" "leaderboard" "paper" "protocol" }}
+{{ $typeDescriptions := dict
+  "tool" "Software tools, libraries, or scripts used for analysis, visualization, tracking, etc."
+  "model" "Pre-trained or reference AI/ML models."
+  "dataset" "Collections of behavioral, neural, or multimodal data."
+  "benchmark" "Evaluation suites or tasks used to compare models or methods."
+  "paper" "Academic publications, protocols, or documentation for methods."
+  "platform" "Platforms or infrastructures that host, organize, or distribute data/tools."
+  "standard" "Definitions, formats, and ontologies to structure and share data consistently."
+}}
+
+{{ $displayOrder := slice "tool" "model" "dataset" "benchmark" "paper" "platform" "standard" }}
 {{ $processedHeadings := dict }}
 
 {{ range $type := $displayOrder }}
@@ -19,6 +29,9 @@
   {{ $resourcesForThisType := where $data.resources "type" $type }}
   {{ if and $heading (not (isset $processedHeadings $heading)) (gt (len $resourcesForThisType) 0) }}
     <h3>{{ $heading }}</h3>
+    {{ with index $typeDescriptions $type }}
+      <p class="resource-type-description">{{ . }}</p>
+    {{ end }}
     {{ $processedHeadings = merge $processedHeadings (dict $heading true) }}
   {{ end }}
   {{ range $resourcesForThisType }}

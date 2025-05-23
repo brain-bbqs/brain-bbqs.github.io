@@ -1,84 +1,24 @@
 {
   "resources": [
     {
-      "id": "superanimal-quadruped",
-      "name": "DLC SuperAnimal-Quadruped",
-      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-SuperAnimal-Quadruped",
-      "description": "DeepLabCut pre-trained model supporting quadruped animals.",
+      "id": "dlc-mwmathis-hf",
+      "name": "DeepLabCut Model Zoo (Mackenzie Mathis, Hugging Face)",
+      "url": "https://huggingface.co/mwmathis",
+      "description": "A collection of DeepLabCut pre-trained models for a wide array of animals, maintained by Mackenzie Mathis. Includes models for quadrupeds, mice, birds, humans, macaques, primates, horses, and more. See the Hugging Face profile for the full list and details.",
       "type": "model",
       "categories": ["pose estimation", "model"],
-      "animals": ["quadruped"],
-      "tags": ["DeepLabCut", "pre-trained"]
+      "animals": ["quadruped", "mouse", "bird", "human", "macaque", "primate", "horse"],
+      "tags": ["DeepLabCut", "pre-trained", "model zoo", "Hugging Face"]
     },
     {
-      "id": "superanimal-topviewmouse",
-      "name": "DLC SuperAnimal-TopViewMouse",
-      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-SuperAnimal-TopViewMouse",
-      "description": "DeepLabCut pre-trained model supporting overhead mouse data.",
+      "id": "dlc-org-hf",
+      "name": "DeepLabCut Organization (Hugging Face)",
+      "url": "https://huggingface.co/DeepLabCut",
+      "description": "The official DeepLabCut organization on Hugging Face, hosting models and demos for animal pose estimation. Supports a wide array of species and provides links to the Model Zoo and related resources.",
       "type": "model",
       "categories": ["pose estimation", "model"],
-      "animals": ["mouse"],
-      "tags": ["DeepLabCut", "pre-trained", "top-view"]
-    },
-    {
-      "id": "superanimal-bird",
-      "name": "DLC SuperAnimal-Bird",
-      "url": "https://huggingface.co/DeepLabCut/DeepLabCutModelZoo-SuperAnimal-Bird",
-      "description": "DeepLabCut pre-trained model for birds.",
-      "type": "model",
-      "categories": ["pose estimation", "model"],
-      "animals": ["bird"],
-      "tags": ["DeepLabCut", "pre-trained"]
-    },
-    {
-      "id": "full-human-body",
-      "name": "DLC Full Human Body",
-      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-DLC_human_fullbody_resnet_101",
-      "description": "DeepLabCut pre-trained model for full human body pose estimation.",
-      "type": "model",
-      "categories": ["pose estimation", "model"],
-      "animals": ["human"],
-      "tags": ["DeepLabCut", "pre-trained"]
-    },
-    {
-      "id": "macaque",
-      "name": "DLC Macaque",
-      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-macaque_full",
-      "description": "DeepLabCut pre-trained model for macaques.",
-      "type": "model",
-      "categories": ["pose estimation", "model"],
-      "animals": ["macaque", "primate"],
-      "tags": ["DeepLabCut", "pre-trained"]
-    },
-    {
-      "id": "primate-face",
-      "name": "DLC Primate Face",
-      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-primate_face",
-      "description": "DeepLabCut pre-trained model for primate facial pose estimation.",
-      "type": "model",
-      "categories": ["pose estimation", "model"],
-      "animals": ["primate"],
-      "tags": ["DeepLabCut", "pre-trained", "facial"]
-    },
-    {
-      "id": "horse-sideview",
-      "name": "DLC Horse Sideview",
-      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-horse_sideview",
-      "description": "DeepLabCut pre-trained model for horse sideview pose estimation.",
-      "type": "model",
-      "categories": ["pose estimation", "model"],
-      "animals": ["horse"],
-      "tags": ["DeepLabCut", "pre-trained", "sideview"]
-    },
-    {
-      "id": "mouse-pupil",
-      "name": "DLC Mouse Pupil",
-      "url": "https://huggingface.co/mwmathis/DeepLabCutModelZoo-mouse_pupil_vclose/tree/main",
-      "description": "DeepLabCut pre-trained model for tracking mouse pupil movements.",
-      "type": "model",
-      "categories": ["pose estimation", "model"],
-      "animals": ["mouse"],
-      "tags": ["DeepLabCut", "pre-trained", "pupil"]
+      "animals": ["quadruped", "bird", "human"],
+      "tags": ["DeepLabCut", "organization", "model zoo", "Hugging Face"]
     },
     {
       "id": "dlc-3d-markerless",
@@ -145,8 +85,8 @@
       "name": "Animal Pose Estimation Leaderboard",
       "url": "https://paperswithcode.com/task/animal-pose-estimation",
       "description": "Comparative leaderboard for animal pose estimation methods.",
-      "type": "leaderboard",
-      "categories": ["leaderboard", "pose estimation"],
+      "type": "benchmark",
+      "categories": ["benchmark", "pose estimation"],
       "animals": [],
       "tags": ["leaderboard", "comparative", "methods", "animal pose"]
     },
@@ -155,8 +95,8 @@
       "name": "DeepLabCut Leaderboard",
       "url": "https://benchmark.deeplabcut.org/",
       "description": "Comparative leaderboard for DLC benchmarks.",
-      "type": "leaderboard",
-      "categories": ["leaderboard", "pose estimation"],
+      "type": "benchmark",
+      "categories": ["benchmark", "pose estimation"],
       "animals": [],
       "tags": ["DeepLabCut", "leaderboard", "benchmark", "comparative"]
     },
@@ -219,6 +159,226 @@
       "categories": ["neural", "data analysis"],
       "animals": [],
       "tags": ["machine learning", "time series", "dimensionality reduction", "neural data"]
+    },
+    {
+      "id": "deeplabcut",
+      "name": "DeepLabCut",
+      "url": "https://deeplabcut.org",
+      "description": "Open-source toolbox for markerless pose estimation of animals using deep learning, allowing high-accuracy tracking of user-defined body parts across species.",
+      "type": "tool",
+      "categories": ["pose estimation", "behavioral analysis"],
+      "animals": [],
+      "tags": ["open-source", "pose estimation", "multi-animal", "WG-Analytics"]
+    },
+    {
+      "id": "sleap",
+      "name": "SLEAP (Social LEAP Estimates Animal Poses)",
+      "url": "https://sleap.ai",
+      "description": "Open-source multi-animal pose tracking toolkit that uses deep learning to estimate positions of animal body landmarks, enabling tracking of multiple animals without markers.",
+      "type": "tool",
+      "categories": ["pose estimation", "behavioral analysis"],
+      "animals": [],
+      "tags": ["open-source", "pose estimation", "multi-animal", "WG-Analytics"]
+    },
+    {
+      "id": "deepposekit",
+      "name": "DeepPoseKit",
+      "url": "https://github.com/jgraving/DeepPoseKit",
+      "description": "Python toolkit for animal pose estimation using deep learning, providing a user-friendly way to train networks for tracking body landmarks in videos.",
+      "type": "tool",
+      "categories": ["pose estimation"],
+      "animals": [],
+      "tags": ["open-source", "pose estimation", "deep learning", "WG-Analytics"]
+    },
+    {
+      "id": "jaaba",
+      "name": "JAABA (Janelia Automatic Animal Behavior Annotator)",
+      "url": "https://jaaba.sourceforge.net/",
+      "description": "Machine learning-based software for analyzing and classifying animal behaviors from video data; allows users to train classifiers to recognize specific behaviors (originally developed for fruit fly studies).",
+      "type": "tool",
+      "categories": ["behavioral analysis"],
+      "animals": ["fly"],
+      "tags": ["open-source", "behavior classification", "supervised learning", "WG-Analytics"]
+    },
+    {
+      "id": "mars",
+      "name": "MARS (Mouse Action Recognition System)",
+      "url": "https://github.com/neuroethology/MARS",
+      "description": "Deep learning pipeline for automated pose estimation and social behavior classification in mice. MARS tracks multiple mice and identifies behaviors like attack, mounting, and investigation in pairwise interactions.",
+      "type": "tool",
+      "categories": ["behavioral analysis"],
+      "animals": ["mouse"],
+      "tags": ["open-source", "social behavior", "pose estimation", "behavior classification", "WG-Analytics"]
+    },
+    {
+      "id": "bento",
+      "name": "BENTO (Behavior Ensemble and Neural Trajectory Observatory)",
+      "url": "https://github.com/neuroethology/bento",
+      "description": "Matlab-based interface for synchronizing and visualizing multimodal data streams (video, pose, neural recordings, audio, etc.), allowing researchers to link neural activity with behavioral events.",
+      "type": "tool",
+      "categories": ["data analysis"],
+      "animals": [],
+      "tags": ["multimodal integration", "data visualization", "open-source", "WG-Analytics"]
+    },
+    {
+      "id": "moseq",
+      "name": "Motion Sequencing (MoSeq)",
+      "url": "https://dattalab.github.io/moseq2-website/index.html",
+      "description": "Unsupervised behavior analysis method that decomposes 3D animal motion into sequences of repeatable modules or 'syllables'. Provides tools for depth-video capture and analysis to characterize spontaneous behaviors in mice.",
+      "type": "tool",
+      "categories": ["behavioral analysis"],
+      "animals": ["mouse"],
+      "tags": ["unsupervised learning", "3D behavior", "open-source", "WG-Analytics"]
+    },
+    {
+      "id": "openpose",
+      "name": "OpenPose",
+      "url": "https://github.com/CMU-Perceptual-Computing-Lab/openpose",
+      "description": "Real-time multi-person 2D pose estimation library. OpenPose detects human body, hand, and facial keypoints in video, widely used for analyzing human posture and movements in natural interactions.",
+      "type": "tool",
+      "categories": ["pose estimation"],
+      "animals": ["human"],
+      "tags": ["open-source", "human pose", "real-time", "WG-Analytics"]
+    },
+    {
+      "id": "openface",
+      "name": "OpenFace",
+      "url": "https://github.com/TadasBaltrusaitis/OpenFace",
+      "description": "Open-source tool for facial behavior analysis. It can track facial landmarks, head pose, eye gaze, and facial action units, facilitating analysis of expressions and attention in human social interactions.",
+      "type": "tool",
+      "categories": ["facial analysis"],
+      "animals": ["human"],
+      "tags": ["open-source", "facial expression", "eye tracking", "WG-Analytics"]
+    },
+    {
+      "id": "deepsqueak",
+      "name": "DeepSqueak",
+      "url": "https://github.com/DrCoffey/DeepSqueak",
+      "description": "Deep learning-based software for detecting and analyzing ultrasonic vocalizations. Commonly used to automatically identify rodent calls in audio recordings, aiding studies of communication and affective state.",
+      "type": "tool",
+      "categories": ["audio analysis"],
+      "animals": ["mouse"],
+      "tags": ["open-source", "audio analysis", "ultrasonic vocalization", "WG-Analytics"]
+    },
+    {
+      "id": "anipose",
+      "name": "Anipose",
+      "url": "https://anipose.readthedocs.io",
+      "description": "Open-source toolkit for 3D pose estimation from multiple camera views.",
+      "type": "tool",
+      "categories": ["pose estimation"],
+      "animals": [],
+      "tags": ["open-source", "3D tracking", "multi-view video", "WG-Analytics"]
+    },
+    {
+      "id": "openbehavior",
+      "name": "OpenBehavior",
+      "url": "https://edspace.american.edu/openbehavior/",
+      "description": "Community-driven repository and blog highlighting open-source neuroscience tools and behavioral research methods. OpenBehavior aggregates resources for tracking, analysis, and hardware across species.",
+      "type": "platform",
+      "categories": ["community resource"],
+      "animals": [],
+      "tags": ["open-source", "repository", "WG-Analytics"]
+    },
+    {
+      "id": "openneuro",
+      "name": "OpenNeuro",
+      "url": "https://openneuro.org",
+      "description": "Free and open platform for sharing neuroscience data (primarily human brain imaging and electrophysiology) in BIDS format.",
+      "type": "platform",
+      "categories": ["data repository"],
+      "animals": ["human"],
+      "tags": ["data sharing", "BIDS", "open data", "WG-ELSI", "WG-Standards"]
+    },
+    {
+      "id": "dandi",
+      "name": "DANDI Archive",
+      "url": "https://www.dandiarchive.org",
+      "description": "Data archive for neurophysiology and neuroimaging data, supporting the Neurodata Without Borders (NWB) format. DANDI enables sharing and reuse of large multimodal neuroscience datasets, aligning with FAIR data principles.",
+      "type": "platform",
+      "categories": ["data repository"],
+      "animals": [],
+      "tags": ["NWB", "open data", "WG-ELSI", "WG-Standards"]
+    },
+    {
+      "id": "nimh-nda",
+      "name": "NIMH Data Archive (NDA)",
+      "url": "https://nda.nih.gov",
+      "description": "Central repository for human subjects data (e.g., ABCD study) including behavioral, clinical, and neuroimaging data. NDA operates under controlled access with data use agreements, providing governance for sharing sensitive human data.",
+      "type": "platform",
+      "categories": ["data repository"],
+      "animals": ["human"],
+      "tags": ["controlled access", "data sharing", "WG-ELSI", "WG-Standards"]
+    },
+    {
+      "id": "bids",
+      "name": "Brain Imaging Data Structure (BIDS)",
+      "url": "https://bids.neuroimaging.io",
+      "description": "A standard for organizing and describing neuroscience data to facilitate sharing and analysis.",
+      "type": "standard",
+      "categories": ["data standard"],
+      "animals": ["human"],
+      "tags": ["standard", "interoperability", "WG-Standards"]
+    },
+    {
+      "id": "nwb",
+      "name": "Neurodata Without Borders (NWB)",
+      "url": "https://nwb.org",
+      "description": "Open standard format for neurophysiology data (neural recordings, behavioral events, etc.) to enhance sharing and integration.",
+      "type": "standard",
+      "categories": ["data standard"],
+      "animals": [],
+      "tags": ["standard", "electrophysiology", "behavior data", "WG-Standards"]
+    },
+    {
+      "id": "nbo",
+      "name": "Neuro Behavior Ontology (NBO)",
+      "url": "http://purl.obolibrary.org/obo/nbo.owl",
+      "description": "Ontology of human and animal behaviors and behavioral phenotypes.",
+      "type": "standard",
+      "categories": ["ontology"],
+      "animals": [],
+      "tags": ["ontology", "behavior", "WG-Standards"]
+    },
+    {
+      "id": "hed",
+      "name": "Hierarchical Event Descriptors (HED)",
+      "url": "http://hedtags.org",
+      "description": "Standardized tagging system for events and metadata in experiments. HED tags provide a consistent way to label events (e.g., stimuli, actions) in neurobehavioral datasets, improving interoperability and analysis.",
+      "type": "standard",
+      "categories": ["ontology"],
+      "animals": [],
+      "tags": ["ontology", "metadata", "events", "WG-Standards"]
+    },
+    {
+      "id": "neuroethics-principles",
+      "name": "NIH BRAIN Initiative Neuroethics Guiding Principles",
+      "url": "https://www.jneurosci.org/content/38/50/10586",
+      "description": "Eight principles outlining ethical considerations for brain research, emphasizing safety, autonomy, privacy of neural data, and public engagement.",
+      "type": "standard",
+      "categories": ["ethics & governance"],
+      "animals": [],
+      "tags": ["neuroethics", "guideline", "WG-ELSI"]
+    },
+    {
+      "id": "open-brain-consent",
+      "name": "Open Brain Consent",
+      "url": "https://open-brain-consent.readthedocs.io",
+      "description": "Initiative providing standardized consent language and tools to facilitate sharing of human brain data.",
+      "type": "standard",
+      "categories": ["ethics & governance"],
+      "animals": ["human"],
+      "tags": ["consent", "data sharing", "WG-ELSI"]
+    },
+    {
+      "id": "brain-data-ecosystem",
+      "name": "BRAIN Initiative Data Sharing Ecosystem (2024)",
+      "url": "https://elifesciences.org/articles/94000",
+      "description": "Overview and analysis of the NIH BRAIN Initiative's data archive ecosystem, comparing seven major neurodata repositories and discussing challenges in making neuroscience data more FAIR (Findable, Accessible, Interoperable, Reusable).",
+      "type": "paper",
+      "categories": ["paper", "data sharing"],
+      "animals": [],
+      "tags": ["data sharing", "FAIR", "WG-ELSI", "WG-Standards"]
     }
   ],
   "categories": [
