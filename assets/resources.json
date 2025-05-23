@@ -159,11 +159,71 @@
       "categories": ["leaderboard", "pose estimation"],
       "animals": [],
       "tags": ["DeepLabCut", "leaderboard", "benchmark", "comparative"]
+    },
+    {
+      "id": "idtracker-ai",
+      "name": "idtracker.ai",
+      "url": "https://idtracker.ai/latest/",
+      "description": "Open-source multi-animal tracking software that can identify and track up to 100 unmarked animals in video, maintaining individual identities throughout the recording.",
+      "type": "tool",
+      "categories": ["entity tracking"],
+      "animals": ["multi-animal"],
+      "tags": ["tracking", "multi-animal", "open-source"]
+    },
+    {
+      "id": "simba",
+      "name": "SimBA - Simple Behavioral Analysis",
+      "url": "https://github.com/sgoldenlab/simba?tab=readme-ov-file",
+      "description": "Open-source pipeline and GUI for developing supervised behavioral classifiers. Supports DLC, DeepPoseKit, SLEAP, MARS and others.",
+      "type": "tool",
+      "categories": ["behavioral analysis"],
+      "animals": ["multi-animal"],
+      "tags": ["behavioral analysis", "supervised learning", "open-source", "GUI"]
+    },
+    {
+      "id": "bonsai",
+      "name": "Bonsai",
+      "url": "https://open-ephys.org/bonsai",
+      "description": "Visual programming language for synchronizing and processing heterogeneous data streams in real time",
+      "type": "tool",
+      "categories": ["data collection"],
+      "animals": [],
+      "tags": ["data synchronization", "real-time processing", "visual programming"]
+    },
+    {
+      "id": "labstreaminglayer",
+      "name": "LabStreamingLayer (LSL)",
+      "url": "labstreaminglayer.org",
+      "description": "Middleware framework for streaming and synchronizing multiple data sources (e.g. EEG, motion tracking, video, etc.) over a network.",
+      "type": "tool",
+      "categories": ["data collection"],
+      "animals": [],
+      "tags": ["data streaming", "synchronization", "middleware"]
+    },
+    {
+      "id": "open-ephys",
+      "name": "Open Ephys",
+      "url": "https://open-ephys.org/",
+      "description": "Open-source platform for electrophysiology hardware and software.",
+      "type": "tool",
+      "categories": ["experimental design", "hardware"],
+      "animals": [],
+      "tags": ["electrophysiology", "hardware", "software", "open-source"]
+    },
+    {
+      "id": "cebra",
+      "name": "CEBRA: Consistent EmBeddings of high-dimensional Recordings using Auxiliary variables",
+      "url": "https://cebra.ai/",
+      "description": "Machine-learning method that can be used to compress time series in a way that reveals otherwise hidden structures in the variability of the data",
+      "type": "model",
+      "categories": ["neural", "data analysis"],
+      "animals": [],
+      "tags": ["machine learning", "time series", "dimensionality reduction", "neural data"]
     }
   ],
   "categories": [
     {
-      "id": "pose-estimation",
+      "id": "pose estimation",
       "name": "Pose Estimation",
       "description": "Techniques and resources for analyzing animal movement."
     },
@@ -196,6 +256,41 @@
       "id": "leaderboard",
       "name": "Leaderboard",
       "description": "Platforms comparing algorithm performance."
+    },
+    {
+      "id": "entity tracking",
+      "name": "Entity Tracking",
+      "description": "Tools and methods for tracking individual entities in videos or experiments."
+    },
+    {
+      "id": "behavioral analysis",
+      "name": "Behavioral Analysis",
+      "description": "Software and techniques for analyzing behavioral data."
+    },
+    {
+      "id": "data collection",
+      "name": "Data Collection",
+      "description": "Tools and platforms for acquiring and synchronizing data."
+    },
+    {
+      "id": "experimental design",
+      "name": "Experimental Design",
+      "description": "Resources related to designing experiments."
+    },
+    {
+      "id": "hardware",
+      "name": "Hardware",
+      "description": "Physical components and systems for experiments."
+    },
+    {
+      "id": "neural",
+      "name": "Neural Data",
+      "description": "Resources related to the analysis of neural data."
+    },
+    {
+      "id": "data analysis",
+      "name": "Data Analysis",
+      "description": "Tools and techniques for analyzing various types of data."
     }
   ],
   "animals": [
@@ -243,6 +338,11 @@
       "id": "fish",
       "name": "Fish",
       "description": "Aquatic vertebrates"
+    },
+    {
+      "id": "multi-animal",
+      "name": "Multi-Animal",
+      "description": "Experiments or tools involving multiple animals simultaneously."
     }
   ]
 }

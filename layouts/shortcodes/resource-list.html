@@ -1,0 +1,46 @@
+{{ $res := resources.Get "resources.json" }}
+{{ $data := $res | transform.Unmarshal }}
+
+{{ $resourceTypes := dict 
+  "tool" "General Tools" 
+  "model" "Models" 
+  "dataset" "Benchmarks and Datasets" 
+  "benchmark" "Benchmarks and Datasets" 
+  "leaderboard" "Leaderboards" 
+  "paper" "Papers and Protocols" 
+  "protocol" "Papers and Protocols"
+}}
+
+{{ $displayOrder := slice "tool" "model" "dataset" "benchmark" "leaderboard" "paper" "protocol" }}
+{{ $processedHeadings := dict }}
+
+{{ range $type := $displayOrder }}
+  {{ $heading := index $resourceTypes $type }}
+  {{ $resourcesForThisType := where $data.resources "type" $type }}
+  {{ if and $heading (not (isset $processedHeadings $heading)) (gt (len $resourcesForThisType) 0) }}
+    <h3>{{ $heading }}</h3>
+    {{ $processedHeadings = merge $processedHeadings (dict $heading true) }}
+  {{ end }}
+  {{ range $resourcesForThisType }}
+    <div class="resource-item" data-categories="{{ delimit .categories "," | lower }}" data-animals="{{ delimit .animals "," | lower }}">
+      <h4><a href="{{ .url }}">{{ .name }}</a></h4>
+      <p>{{ .description }}</p>
+      <div class="resource-tags">
+        {{ range .categories }}
+          {{ $categoryID := . | lower }}
+          {{ $categoryData := first 1 (where $data.categories "id" $categoryID) }}
+          {{ $categoryName := $categoryID | title }}
+          {{ if $categoryData }}{{ $categoryName = (index $categoryData 0).name }}{{ end }}
+          <span class="category-pill" data-category="{{ $categoryID }}">{{ $categoryName }}</span>
+        {{ end }}
+        {{ range .animals }}
+          {{ $animalID := . | lower }}
+          {{ $animalData := first 1 (where $data.animals "id" $animalID) }}
+          {{ $animalName := $animalID | title }}
+          {{ if $animalData }}{{ $animalName = (index $animalData 0).name }}{{ end }}
+          <span class="animal-pill" data-animal="{{ $animalID }}">{{ $animalName }}</span>
+        {{ end }}
+      </div>
+    </div>
+  {{ end }}
+{{ end }}
