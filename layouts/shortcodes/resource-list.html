@@ -22,7 +22,10 @@
     {{ $processedHeadings = merge $processedHeadings (dict $heading true) }}
   {{ end }}
   {{ range $resourcesForThisType }}
-    <div class="resource-item" data-categories="{{ delimit .categories "," | lower }}" data-animals="{{ delimit .animals "," | lower }}">
+    <div class="resource-item"
+         data-categories="{{ delimit .categories "," | lower }}"
+         data-animals="{{ delimit .animals "," | lower }}"
+         data-tags="{{ delimit .tags "," | lower }}">
       <h4><a href="{{ .url }}">{{ .name }}</a></h4>
       <p>{{ .description }}</p>
       <div class="resource-tags">

@@ -4,28 +4,27 @@ document.addEventListener('DOMContentLoaded', function() {
     const noResultsMessage = document.getElementById('no-results-message');
     
     searchInput.addEventListener('input', function() {
-        const searchTerm = this.value.toLowerCase();
-        let hasResults = false;
+        const searchTerm = searchInput.value.toLowerCase();
+        let found = false;
         
         resourceItems.forEach(function(item) {
-            const itemText = item.textContent.toLowerCase();
-            const itemCategories = item.dataset.categories ? item.dataset.categories.toLowerCase() : '';
-            const itemAnimals = item.dataset.animals ? item.dataset.animals.toLowerCase() : '';
+            const text = (
+                item.textContent +
+                (item.getAttribute('data-categories') || '') +
+                (item.getAttribute('data-animals') || '') +
+                (item.getAttribute('data-tags') || '')
+            ).toLowerCase();
             
-            if (
-                itemText.includes(searchTerm) || 
-                itemCategories.includes(searchTerm) || 
-                itemAnimals.includes(searchTerm)
-            ) {
+            if (text.includes(searchTerm)) {
                 item.style.display = '';
-                hasResults = true;
+                found = true;
             } else {
                 item.style.display = 'none';
             }
         });
         
         if (noResultsMessage) {
-            noResultsMessage.style.display = hasResults ? 'none' : 'block';
+            noResultsMessage.style.display = found ? 'none' : 'block';
         }
     });
     
