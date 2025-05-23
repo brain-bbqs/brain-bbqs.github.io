@@ -8,7 +8,7 @@ weight: 40
 
 ### Overview
 
-This page provides a curated collection of resources relevant to BBQS projects and working groups. You'll find software tools and libraries for analysis, pre-trained AI/ML models, behavioral and neural datasets, evaluation benchmarks, academic publications, data platforms, and standards for consistent data sharing. Use the search below to filter resources by keywords, categories, target species, or working groups.
+This page provides a curated collection of resources relevant to BBQS projects and working groups. You'll find software tools and libraries for analysis, pre-trained ML models, multimodal datasets, evaluation benchmarks, academic publications, data platforms, and standards for consistent data sharing. Use the search below to filter resources by keywords, categories, target species, or working groups.
 
 <div class="resource-search-container">
   <div class="search-input-wrapper">
