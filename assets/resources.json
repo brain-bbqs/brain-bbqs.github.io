@@ -395,7 +395,7 @@
     {
       "id": "paper",
       "name": "Paper",
-      "description": "Scientific publications related to behavioral research."
+      "description": "Publications related to BBQS projects and research."
     },
     {
       "id": "protocol",
@@ -415,7 +415,7 @@
     {
       "id": "leaderboard",
       "name": "Leaderboard",
-      "description": "Platforms comparing algorithm performance."
+      "description": "Platforms comparing model performance."
     },
     {
       "id": "entity-tracking",
