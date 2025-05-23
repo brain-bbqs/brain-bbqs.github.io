@@ -3,10 +3,11 @@ document.addEventListener('DOMContentLoaded', function() {
     const resourceItems = document.querySelectorAll('.resource-item');
     const noResultsMessage = document.getElementById('no-results-message');
     
-    searchInput.addEventListener('input', function() {
-        const searchTerm = searchInput.value.toLowerCase();
+    // Function to handle search logic
+    function performSearch(searchTerm) {
+        searchTerm = searchTerm.toLowerCase();
         let found = false;
-        
+
         resourceItems.forEach(function(item) {
             const text = (
                 item.textContent +
@@ -36,6 +37,10 @@ document.addEventListener('DOMContentLoaded', function() {
         if (noResultsMessage) {
             noResultsMessage.style.display = found ? 'none' : 'block';
         }
+    }
+
+    searchInput.addEventListener('input', function() {
+        performSearch(searchInput.value);
     });
     
     // Clear search when clicking the clear button
@@ -43,7 +48,8 @@ document.addEventListener('DOMContentLoaded', function() {
     if (clearButton) {
         clearButton.addEventListener('click', function() {
             searchInput.value = '';
-            searchInput.dispatchEvent(new Event('input'));
+            // Dispatch 'input' event to trigger search and UI updates
+            searchInput.dispatchEvent(new Event('input')); 
         });
     }
     
@@ -53,6 +59,7 @@ document.addEventListener('DOMContentLoaded', function() {
         pill.addEventListener('click', function() {
             const category = this.dataset.category.toLowerCase();
             searchInput.value = category;
+            // Dispatch 'input' event to trigger search and UI updates
             searchInput.dispatchEvent(new Event('input'));
         });
     });
@@ -63,7 +70,16 @@ document.addEventListener('DOMContentLoaded', function() {
         pill.addEventListener('click', function() {
             const animal = this.dataset.animal.toLowerCase();
             searchInput.value = animal;
+            // Dispatch 'input' event to trigger search and UI updates
             searchInput.dispatchEvent(new Event('input'));
         });
     });
+
+    // Check for search query in URL on page load
+    const urlParams = new URLSearchParams(window.location.search);
+    const searchQuery = urlParams.get('search');
+    if (searchQuery) {
+        searchInput.value = decodeURIComponent(searchQuery);
+        performSearch(searchInput.value); // Directly call performSearch with the value
+    }
 });

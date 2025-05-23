@@ -38,7 +38,7 @@ by working with BBQS and data standards bodies and teams to:
 - Standards Guidelines _(Coming Soon)_
 
 #### Resources
-_(Coming Soon)_
+  * [View Standards Resources](/resources?search=WG-Standards)
 
 #### Chairs
 - [Oliver Ruebel](https://dav.lbl.gov/~oruebel/)

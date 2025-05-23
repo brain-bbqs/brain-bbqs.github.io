@@ -13,13 +13,11 @@ The Working Group on Ethical, Legal, and Societal Implications (ELSI) aims to id
 
 To achieve this overarching goal, the Working Group will meet with the ELSI Scientific Advisory Board to identify areas to prioritize, conduct workshops on key ELSI topics to discuss with the larger BBQS community, conduct research on ethical issues to identify and create recommendations for the consortium and the broader community, and share these resources with BBQS consortium members. 
 
-<!-- #### Taskforce(s) -->
-
 #### Documentation
 - [Working Group Charter](https://docs.google.com/document/d/1GnGAAeUUrkO5dvk_P3zXjjF0HiiIBGyy/edit?usp=sharing&ouid=117099683135763927535&rtpof=true&sd=true)
 
 #### Resources
-_(Coming Soon)_
+  * [View ELSI Resources](/resources?search=WG-ELSI)
 
 #### Chair
 - [Laura Cabrera](https://rockethics.psu.edu/people/laura-cabrera/)
