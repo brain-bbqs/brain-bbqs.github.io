@@ -23,6 +23,16 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
         
+        // Hide/show type sections based on visible items
+        document.querySelectorAll('.resource-type-section').forEach(function(section) {
+            const visibleItems = section.querySelectorAll('.resource-item:not([style*="display: none"])');
+            if (visibleItems.length === 0) {
+                section.classList.add('hidden');
+            } else {
+                section.classList.remove('hidden');
+            }
+        });
+        
         if (noResultsMessage) {
             noResultsMessage.style.display = found ? 'none' : 'block';
         }

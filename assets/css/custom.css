@@ -33,3 +33,7 @@ details[open] > summary {
 h3 + .resource-type-description {
   margin-top: 0.1em;
 }
+
+.resource-type-section.hidden {
+  display: none !important;
+}
