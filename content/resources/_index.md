@@ -8,7 +8,7 @@ weight: 40
 
 ### Overview
 
-This list provides resources relevant to BBQS projects and working groups. These resources include pre-trained models, datasets, tools, and papers that support the consortia and its goals.
+This page provides a curated collection of resources relevant to BBQS projects and working groups. You'll find software tools and libraries for analysis, pre-trained AI/ML models, behavioral and neural datasets, evaluation benchmarks, academic publications, data platforms, and standards for consistent data sharing. Use the search below to filter resources by keywords, categories, target species, or working groups.
 
 <div class="resource-search-container">
   <div class="search-input-wrapper">
@@ -23,7 +23,7 @@ This list provides resources relevant to BBQS projects and working groups. These
 </div>
 
 ### Contribution
-To add resources or update existing entries, please reach out to the BBQS team or submit via our [GitHub repository](#).
+To add resources or update existing entries, please reach out to the BBQS team.
 
 ### Future Plans
 We are working on integrating a chatbot that will connect to a database of JSON-organized resources, making it even easier to find the information you need. We are also working on an ingestion tool that will make it easier to add and update entries! Stay tuned for updates.
