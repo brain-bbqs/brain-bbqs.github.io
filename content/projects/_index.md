@@ -284,7 +284,7 @@ The challenge of understanding how neural activity results in human behavior and
 
 <div class="hover-block">
 
-**_R61MH138713_** - [Combining neural oscillations, physiology and privacy-preserving LiDAR/millimeter wave sensing technology to track attention states in natural contexts](/projects/r61_07) \
+**_R61MH138713_** - [Combining neural oscillations, physiology and privacy-preserving LiDAR/millimeter wave sensing technology to track attention states in natural contexts](https://reporter.nih.gov/project-details/11037221) \
 **_PI(s)_** - [Ertin, Emre](mailto:ertin.1@osu.edu),
     [Grammer, Jennie K.](mailto:jgrammer@seis.ucla.edu),
     [Lenartowicz, Agatha](mailto:alenarto@mednet.ucla.edu)\* \
