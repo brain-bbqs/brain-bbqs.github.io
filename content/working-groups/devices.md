@@ -16,7 +16,7 @@ The Device WG aims to compile a comprehensive protocol document to define best p
 - Document the inventory of devices used in BBQS projects.
 - Collaborate with the Standards and Analytics Working Groups to develop protocols and standards for post-recording procedures, aimed at identifying common hardware- and device-related issues, particularly synchronization problems.
 
-***In Long-term:***
+**In Long-term:**
 - Develop a shared repository of protocols for device setup, synchronization, and troubleshooting.
 - Publish a best-practices and tools resource paper.
 - Standardize reporting guidelines for synchronization processes.
