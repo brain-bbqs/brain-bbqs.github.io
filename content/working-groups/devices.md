@@ -7,7 +7,7 @@ weight: 20
 
 #### Purpose
 
-The Device WG aims to compile a comprehensive protocol document to define best practices for multimodal data acquisition and device integration. Specifically, this working group will document and generalize challenges and solutions related to hardware, sensors, calibration, and synchronization processes in, with an emphasis on compiling and sharing solutions across laboratories.
+The Device WG aims to compile a comprehensive protocol document to define best practices for multimodal data acquisition and device integration. Specifically, this working group will document and generalize challenges and solutions related to hardware, sensors, calibration, and synchronization processes, with an emphasis on compiling and sharing solutions across laboratories.
 
 #### Deliverables
 
