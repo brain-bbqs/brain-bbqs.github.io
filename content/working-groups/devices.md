@@ -33,7 +33,7 @@ The Device WG aims to compile a comprehensive protocol document to define best p
   * [View Devices Resources](/resources?search=WG-Devices)
 
 #### Working Group Chairs
-- [Alireza Kazemi](https:alirezakazemi.com)
+- [Alireza Kazemi](https://alirezakazemi.com)
 - [Uros Topalovic](https://scholar.google.com/citations?user=7Q02lPoAAAAJ&hl=en) 
 
 **_Mailing List_**: 
