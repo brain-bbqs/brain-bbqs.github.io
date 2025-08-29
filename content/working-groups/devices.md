@@ -34,7 +34,7 @@ The Device WG aims to compile a comprehensive protocol document to define best p
 
 #### Working Group Chairs
 - [Alireza Kazemi](https://alirezakazemi.com)
-- [Uros Topalovic](https://scholar.google.com/citations?user=7Q02lPoAAAAJ&hl=en) 
+- [Uros Topalovic](https://scholar.google.com/citations?user=7Q02lPoAAAAJ&hl=en)
 
 **_Mailing List_**: 
 - &nbsp;&nbsp;&nbsp;&nbsp;*Chairs*: wg-chairs@brain-bbqs.org\
