@@ -11,7 +11,7 @@ The Device WG aims to compile a comprehensive protocol document to define best p
 
 #### Deliverables
 
-***In short-term:***
+**In short-term:**
 - Schedule recurring monthly meetings starting in September to finalize and approve the group’s charter.
 - Document the inventory of devices used in BBQS projects.
 - Collaborate with the Standards and Analytics Working Groups to develop protocols and standards for post-recording procedures, aimed at identifying common hardware- and device-related issues, particularly synchronization problems.
