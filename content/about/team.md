@@ -19,7 +19,7 @@ The BBQS research program is characterized by certain features and challenges th
 
 ### Principal Investigators
 
-- [Satrajit Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) (Data Management)
+- [Satrajit Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) (Data Management/AI)
     - Principal Research Scientist, [McGovern Institute for Brain Research](https://satra.cogitatum.org/), M.I.T., Cambridge, MA
         - Director, [Senseable Intelligence Group](https://sensein.group/), M.I.T./Harvard Medical School
     - Assistant Professor of Otolaryngology, Harvard Medical School, Boston, MA
@@ -30,7 +30,7 @@ The BBQS research program is characterized by certain features and challenges th
       - Dorothy Foehr Huck and J. Lloyd Huck Career Chair in Neuroethics
     - Senior Research Associate in the Rock Ethics Institute
   
-- [David N. Kennedy](https://profiles.umassmed.edu/display/130002) (Training)
+- [David N. Kennedy](https://profiles.umassmed.edu/display/130002) (Training/Dissemination)
     - Professor of Psychiatry and Radiology, UMass Chan Medical School, Worcester, MA
         - Founding Director, Division of Neuroinformatics
         - Founding Co-Director, Child and Adolescent Neurodevelopment Initiative (CANDI) Lab
