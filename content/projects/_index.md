@@ -323,6 +323,46 @@ of determining sources of inattention on individual basis, thus allowing for mor
 {{</details>}}
 </div>
 
+<div class="hover-block">
+
+**_R61MH138705_** - [Neural and Behavioral Correlates of Live Face-to-Face Interactions](https://reporter.nih.gov/project-details/11036754) \
+**_PI(s)_** - [Hirsch, Joy](mailto:joy.hirsch@yale.edu) \
+**_Institution(s)_** - Yale University
+{{<details>}}
+Summary
+Recent interest in the neural correlates of naturalistic behaviors has increased the need for tools to acquire
+multimodal measures during real world contexts. Human faces in natural settings are primary sources of socially
+communicated information but are traditionally studied in non-interactive contexts. Faces not only carry the
+structural information that serves identification, but also communicate social cues driven by live and spontaneous
+dynamics that convey emotion, direct attention, and regulate eye-to-eye contact. However, this domain of live
+and natural interacting faces has not been widely studied due to the absence of reliable and validated
+measurement methods appropriate for observing such interaction under ecologically valid conditions. We
+address this knowledge gap here by proposing to establish a Social Interaction Suite (SIS) of synchronized
+neural and behavioral tools designed for measurements of cognitive networks associated with processing facial
+cues and their correlated behaviors exchanged in live social interactions. SIS is developed on a neural imaging
+platform based on functional near infrared spectroscopy (fNIRS), a head mounted optical imaging system, to
+acquire hemodynamic signals that originate from superficial cortex. This suite of tools will include simultaneous
+and synchronized electroencephalography (EEG), eye-tracking, pupillometry, facial feature tracking and
+associated emotive categorization, subjective responses (dial ratings), and physiological monitoring during live
+eye-to-eye contact and emotional contagion tasks. Prior studies of dyadic face interactions provide evidence that
+real faces engage specialized neural circuits beyond the well-known ventral stream face processing circuits and
+include right superior temporal gyrus (rSTG), supramarginal gyrus (rSMG) and angular gyrus (rAG). Eye-to-eye
+contact additionally engages regions in the dorsal parietal area, right somatosensory cortex (rSSAC). We aim
+to advance a theoretical framework for this interactive face and eye-contact model by testing the hypothesis that
+the live-face and the eye-to-eye contact systems are dissociable cortical pathways. Validation and
+characterization of the model will be performed by continuous transcranial brain stimulation (cTBS) to disrupt
+candidate regions in the live face processing systems at sites informed by the previous pilot fNIRS and behavioral
+data. Following the completion of the initial tool development and validation phase, the obtained results will be
+used in the application of functionally defined multi-electrode targeted transcranial direct current stimulation
+(tDCS) to test hypotheses related to up and down regulation of the dorsal parietal and lateral face processing
+regions. Successful manipulation of eye contact under excitatory and inhibitory tDCS stimulation of the dorsal
+region will extend our cTBS results and provide proof of concept for the application of neural modulation as a
+tool for facilitating social interaction.
+
+{{</details>}}
+
+</div>
+
 ### U24 Data Coordination and AI Center (DCAIC)
 
 <div class="hover-block">
@@ -368,5 +408,3 @@ Neuroscience research has historically relied on observing tightly controlled be
        window.open(pageUrl, "_self");
      }
 </script>
-
-\*Contact PI/Project Lead
