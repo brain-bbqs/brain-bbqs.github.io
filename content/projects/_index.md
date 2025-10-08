@@ -206,7 +206,7 @@ With the advent of new technologies to probe brain-behavior relationships deeper
 <div class="hover-block">
 
 **_R34DA062119_** - [The International Development Project (IDP): An international collaboration for the standardized study of experience-dependent brain and behavioral development](https://reporter.nih.gov/search/Rzi0zieKH0GZuG8lIsQy7Q/project-details/11045432) \
-**_PI(s)_** - [Wilbrecht, Linda E.](mailto:wilbrecht@berkeley.edu)\*,
+**_PI(s)_** - [Wilbrecht, Linda E.](mailto:wilbrecht@berkeley.edu)\
 **_Institution(s)_** - University of California, Berkeley
 
 {{<details>}}
