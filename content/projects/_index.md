@@ -203,6 +203,18 @@ With the advent of new technologies to probe brain-behavior relationships deeper
   {{</details>}}
 </div>
 
+<div class="hover-block">
+
+**_R34DA062119_** - [The International Development Project (IDP): An international collaboration for the standardized study of experience-dependent brain and behavioral development](https://reporter.nih.gov/search/Rzi0zieKH0GZuG8lIsQy7Q/project-details/11045432) \
+**_PI(s)_** - [Wilbrecht, Linda E.](mailto:wilbrecht@berkeley.edu)\*,
+**_Institution(s)_** - University of California, Berkeley
+
+{{<details>}}
+It is increasingly clear that experience of adversity including poverty, trauma, and other stressors during childhood can enhance risk for mental and physical health problems later in life. These adverse experiences can be highly varied and include elements such as food insecurity, family and community violence, and multiple forms of neglect. To efficiently target interventions and to build resilience, it is imperative to understand which forms of adversity have which effects on behavior, and to determine what timing and combination of adversities puts an individual most at risk. We also need to recognize that these questions have a deep biological history. Experience in different domains likely acts on a developing organism’s developmental programming where it adjusts gene expression to adapt an individual’s phenotype in response to the environment. This adaptation may differ depending on the type of experience (for example, threat, deprivation or scarcity and other forms of uncertainty may drive different outcomes). To study these important epidemiological and biological questions in a controlled fashion we can turn to the study of the effects of developmental experience on mice whose genetics, rearing and testing conditions can be carefully controlled. However, to get a big picture view of how different forms of experience compare to one another in the field of neuroscience and behavior, we need to adopt better scientific methods that use richer, more ethologically informed behavioral tasks and rigorously standardize our protocols across sites, share data in readily comparable formats. Here we propose to initiate a team science effort, the Adversity and Resilience Consortium (ARC), to address these challenges. We will begin by comparing our existing data sets from control mice and mice that experienced adversity in development to assess how they might be combined across sites. Based on the interests of our initial team these data will focus on adolescent experience and adult learning and decision making, but can later be expanded. Next, we will develop 1) a standardized set of methods and protocols to assess behavior and 2) a public forum for sharing protocols, resources, and data that also facilitates exploration and analysis based on Open Source Brain as a model. In future work supported by larger grant mechanisms, we will work as a team using our newly standardized methods to vary exposure to deprivation, threat, and unpredictability and study behavior and brain development along with neural recordings. We predict that dimensionality reduction methods and computational models of latent processes will reveal distinct effects of different forms of adversity on mouse behavior that can be mapped back to distinct contrasts in cellular and circuit function.
+
+  {{</details>}}
+</div>
+
 ### R61/R33 (Translational Neural Devices) Projects
 
 <div class="hover-block">
