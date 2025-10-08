@@ -194,7 +194,7 @@ Mapping dynamic transitions across neural, behavioral, and social scales in inte
 
 **_R34DA061925_** - [Building an “AI Forest” to identify the social and environmental factors underlying complex behavioral traits in wild primates](https://reporter.nih.gov/search/ExyDubmq-06Qzj272RAFyQ/project-details/11035427) \
 **_PI(s)_** - [Flagel, Shelly Beth](mailto:sflagel@med.umich.edu)\*,
-  [Beehner, Jacinta](mailto:jbeehner@umich.edu), \
+  [Beehner, Jacinta](mailto:jbeehner@umich.edu),
   [Benitez, Marcela Eugenia](mailto:marcela.benitez@emory.edu) \
 **_Institution(s)_** - University of Michigan at Ann Arbor
 {{<details>}}
