@@ -13,15 +13,15 @@ The Brain Behavior Quantification and Synchronization (BBQS) Initiative will hav
 
 ## Schedule at a Glance
 
-| Day | Time | Event Type | Count |
-|-----|------|-----------|-------|
-| Sunday, Nov 16 | 2:00-4:30 PM | Minisymposium | 1 |
-| Monday, Nov 17 | 8:00-12:00 PM | Poster Session | 1 |
-| Monday, Nov 17 | 12:00-2:00 PM | BBQS Networking | - |
-| Tuesday, Nov 18 | 8:00-12:00 PM | Poster/Nano Sessions | 2 |
-| Tuesday, Nov 18 | 1:00-5:00 PM | Poster Session | 1 |
-| Wednesday, Nov 19 | 8:00-12:00 PM | Poster/Nano Sessions | 2 |
-| Wednesday, Nov 19 | 1:00-5:00 PM | Poster Session | 4 |
+| Day | Time | Event Type |
+|-----|------|-----------|
+| Sunday, Nov 16 | 2:00-4:30 PM | Minisymposium |
+| Monday, Nov 17 | 8:00-12:00 PM | Poster Session |
+| Monday, Nov 17 | 12:00-2:00 PM | BBQS Networking |
+| Tuesday, Nov 18 | 8:00-12:00 PM | Poster/Nano Sessions |
+| Tuesday, Nov 18 | 1:00-5:00 PM | Poster Session |
+| Wednesday, Nov 19 | 8:00-12:00 PM | Poster/Nano Sessions |
+| Wednesday, Nov 19 | 1:00-5:00 PM | Poster Session |
 
 ---
 
