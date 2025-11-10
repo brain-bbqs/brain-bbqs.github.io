@@ -27,7 +27,7 @@ menu:
     - name: Working Groups
       pageRef: /working-groups/
       weight: 3
-    - name: Events
+    - name: SFN 2025
       pageRef: /events/
       weight: 3.5
     - name: Resources
