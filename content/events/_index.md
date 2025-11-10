@@ -5,9 +5,9 @@ weight: 1
 
 ## Join BBQS at SFN 2025
 
-**November 15-19, 2025 | Chicago, IL**
+**November 15-19, 2025 | San Diego, CA**
 
-The Brain Behavior Quantification and Synchronization (BBQS) Initiative will have a major presence at the Society for Neuroscience Annual Meeting in Chicago. Connect with our researchers, explore cutting-edge tools, and learn about the latest developments in brain-behavior research.
+The Brain Behavior Quantification and Synchronization (BBQS) Initiative will have a major presence at the Society for Neuroscience Annual Meeting in San Diego. Connect with our researchers, explore cutting-edge tools, and learn about the latest developments in brain-behavior research.
 
 ---
 
@@ -30,7 +30,7 @@ The Brain Behavior Quantification and Synchronization (BBQS) Initiative will hav
 ## Key Information
 
 - **Dates:** November 15-19, 2025
-- **Location:** McCormick Place, Chicago, IL  
+- **Location:** San Diego Convention Center, San Diego, CA  
 - **Networking Event:** Monday, November 17, 12-2 PM (near Convention Center)
 
 ---
