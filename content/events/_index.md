@@ -6,10 +6,22 @@ weight: 1
 # Join BBQS at SFN 2025! 
 
 ### Society for Neuroscience Annual Meeting
-**November 15-19, 2025 • McCormick Place, Chicago, IL**
+**November 15-19, 2025 • San Diego Convention Center, San Diego, CA**
 
 The Brain Behavior Quantification and Synchronization (BBQS) Initiative will have a major presence at this year's Society for Neuroscience Annual Meeting. Connect with our researchers, explore cutting-edge tools, and learn about the latest developments in brain-behavior research.
 
+---
+
+## 📍 Quick Info
+
+| What | When/Where |
+|------|------------|
+| **Dates** | November 15-19, 2025 |
+| **Location** | San Diego Convention Center, San Diego, CA |
+| **BBQS Networking** | Monday, Nov 17 • 12:00-2:00 PM • Near Convention Center |
+| **Booths** | #3830 (EMBER/BossDB) • #3831 (DANDI/NWB) |
+
+---
 
 ---
 
@@ -30,19 +42,6 @@ The Brain Behavior Quantification and Synchronization (BBQS) Initiative will hav
 
 ---
 
----
-
-## 📍 Quick Info
-
-| What | When/Where |
-|------|------------|
-| **Dates** | November 15-19, 2025 |
-| **Location** | McCormick Place, Chicago, IL |
-| **BBQS Networking** | Monday, Nov 17 • 12:00-2:00 PM • Near Convention Center |
-| **Booths** | #3830 (EMBER/BossDB) • #3831 (DANDI/NWB) |
-
----
-
 ## 🏢 Visit Our Booths
 
 ### Booth #3830: EMBER & BossDB
@@ -54,31 +53,7 @@ Explore the **Distributed Archives for Neurophysiology Data Integration** (DANDI
 
 ---
 
-## 🎤 Featured Events
-
-### Sunday Minisymposium
-
-**Emerging Experimental Approaches to Probe Conserved Neurobehavioral Mechanisms Underlying Affiliative and Antagonistic Social Behaviors**
-
-- **Date:** Sunday, November 16, 2025
-- **Time:** 2:00 PM - 4:30 PM
-- **Organizer:** Farah Bader
-
-Featuring multiple speakers exploring social behavior mechanisms across species.
-
-### Monday Networking Event
-
-**BBQS Informal Gathering**
-
-- **Date:** Monday, November 17, 2025
-- **Time:** 12:00 PM - 2:00 PM
-- **Location:** Near Convention Center
-
-Join fellow BBQS researchers for networking and discussion!
-
----
-
-## 📅 Presentations Schedule
+## 📅 Schedule of Events
 
 ### Sunday, November 16
 
@@ -94,8 +69,10 @@ Join fellow BBQS researchers for networking and discussion!
 
 #### 2:00 PM - 4:30 PM | Minisymposium
 
-**Emerging Experimental Approaches to Probe Conserved Neurobehavioral Mechanisms**  
-Multiple speakers exploring social behavior mechanisms
+**Emerging Experimental Approaches to Probe Conserved Neurobehavioral Mechanisms Underlying Affiliative and Antagonistic Social Behaviors**
+
+- **Organizer:** Farah Bader
+- Multiple speakers exploring social behavior mechanisms across species
 
 ---
 
@@ -113,6 +90,13 @@ Multiple speakers exploring social behavior mechanisms
 - **Presenters:** Ryan Ly, Oliver Ruebel (Lawrence Berkeley National Lab)
 - **Keywords:** NWB, Neurophysiology, DANDI, Data standards, Electrophysiology, Behavior
 - **Grant:** U24 BARD.CC (Ghosh, Cabrera, Kennedy)
+
+#### 12:00 PM - 2:00 PM | BBQS Networking Event
+
+**BBQS Informal Gathering**
+
+- **Location:** Near Convention Center
+- Join fellow BBQS researchers for networking and discussion!
 
 ---
 
@@ -315,7 +299,7 @@ Multiple speakers exploring social behavior mechanisms
 **Neural Oscillations and Privacy-Preserving Sensing**
 
 - **PIs:** Ertin, Grammer, Agatha Lenartowicz
-- **Note:** Demo at NeurIPS on December 6, 2025
+- **Focus:** Attention tracking using privacy-preserving sensing technology
 
 ---
 
@@ -347,7 +331,12 @@ Use these codes in the SfN abstract submission system to find and connect with B
 
 *Use the Special Linking Group Report in the abstract submission site to find related research groups.*
 
-## 📧 Get in Touch
+## 🤝 Connect with BBQS
+
+### At SfN 2025
+- **Visit our booths:** #3830 (EMBER/BossDB) and #3831 (DANDI/NWB)
+- **Join the Monday networking event:** Nov 17, 12:00-2:00 PM near Convention Center
+- **Connect through SfN linking groups:** Use codes ShamrockPlum, BrassMango, or RedDenim
 
 ### Questions?
 Contact us at [admin@brain-bbqs.org](mailto:admin@brain-bbqs.org)
@@ -357,17 +346,9 @@ Contact us at [admin@brain-bbqs.org](mailto:admin@brain-bbqs.org)
 - [BBQS Projects](/projects/)
 - [BBQS Resources](/resources/)
 
-### Connect at SfN
-- Visit booths **#3830** and **#3831**
-- Join the **Monday networking event**
-- Connect through **SfN linking groups**
-
 ---
 
 ## 📝 Additional Notes
-
-### For NeurIPS Attendees
-Agatha Lenartowicz's team will present a demo at **NeurIPS on December 6, 2025**. Contact the R61 team for details.
 
 ### Presentation Materials
 Most presenters have agreed to share their talks and posters. Check back after the conference for links to materials.
@@ -376,4 +357,4 @@ Most presenters have agreed to share their talks and posters. Check back after t
 
 *Page last updated: November 2025*
 
-*Looking forward to seeing you in Chicago!*
+*Looking forward to seeing you in San Diego!*
