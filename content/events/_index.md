@@ -69,6 +69,16 @@ Explore the **Distributed Archives for Neurophysiology Data Integration** (DANDI
 - **Keywords:** Electrophysiology, Wearable Recordings, Memory, Emotion, Navigation
 - **Grant:** R61 (Inman)
 
+#### 1:00 PM - 1:15 PM | Nanosymposium Talk
+
+**NANO017** • Neural population dynamics during naturalistic versus task-related behavior
+
+- **Time:** 1:00 PM - 1:15 PM
+- **Location:** SDCC Room 24A
+- **Presenters:** P. Middlebrooks, A. Eagle, M. A. Nicholas, A. Hsu, E. A. Yttri
+- **Institutions:** Carnegie Mellon University, Pittsburgh, PA
+- **Session:** Motor Planning and Execution: Behavior and Neurophysiology
+
 #### 2:00 PM - 4:30 PM | Minisymposium
 
 **Emerging Experimental Approaches to Probe Conserved Neurobehavioral Mechanisms Underlying Affiliative and Antagonistic Social Behaviors**
