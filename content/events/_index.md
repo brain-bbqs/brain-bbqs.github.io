@@ -27,16 +27,16 @@ The Brain Behavior Quantification and Synchronization (BBQS) Initiative will hav
 
 ## 📊 Schedule at a Glance
 
-| Day | Time | Event |
-|-----|------|-------|
-| **[Sun, Nov 16](#sunday)** | 10:15-10:30 AM | Nanosymposium Talk |
-| **[Sun, Nov 16](#sunday)** | 2:00-4:30 PM | Minisymposium |
-| **[Mon, Nov 17](#monday)** | 8:00-12:00 PM | Poster Session |
-| **[Mon, Nov 17](#monday)** | **12:00-2:00 PM** | **BBQS Networking** |
-| **[Tue, Nov 18](#tuesday)** | 8:00-12:00 PM | Poster/Nano Sessions |
-| **[Tue, Nov 18](#tuesday)** | 1:00-5:00 PM | Poster Session |
-| **[Wed, Nov 19](#wednesday)** | 8:00-12:00 PM | Poster Session |
-| **[Wed, Nov 19](#wednesday)** | 1:00-5:00 PM | Poster Session |
+| Day | Time | Event | # |
+|-----|------|-------|---|
+| **[Sun, Nov 16](#sunday)** | 10:15-10:30 AM | Nanosymposium Talk | 1 |
+| **[Sun, Nov 16](#sunday)** | 2:00-4:30 PM | Minisymposium | 1 |
+| **[Mon, Nov 17](#monday)** | 8:00-12:00 PM | Poster Session | 2 |
+| **[Mon, Nov 17](#monday)** | **12:00-2:00 PM** | **BBQS Networking** | - |
+| **[Tue, Nov 18](#tuesday)** | 8:00-12:00 PM | Poster/Nano Sessions | 2 |
+| **[Tue, Nov 18](#tuesday)** | 1:00-5:00 PM | Poster Session | 1 |
+| **[Wed, Nov 19](#wednesday)** | 8:00-12:00 PM | Poster Session | 1 |
+| **[Wed, Nov 19](#wednesday)** | 1:00-5:00 PM | Poster Session | 4 |
 
 **Total:** 12+ presentations across 4 days
 
@@ -102,6 +102,15 @@ Explore the **Distributed Archives for Neurophysiology Data Integration** (DANDI
 - **Presenters:** Ryan Ly, Oliver Ruebel (Lawrence Berkeley National Lab)
 - **Keywords:** NWB, Neurophysiology, DANDI, Data standards, Electrophysiology, Behavior
 - **Grant:** U24 BARD.CC (Ghosh, Cabrera, Kennedy)
+
+#### 9:00 AM - 10:00 AM | Special Lecture
+
+**LEC11** • From Foraging to Flashbacks: The Neural Basis of Spatial Memory and Mental Time Travel
+
+- **Time:** 9:00 AM - 10:00 AM
+- **Location:** SDCC Ballroom 20
+- **Speaker:** Nanthia Suthana
+- **Description:** Findings from human intracranial recordings focusing on the hippocampus and related regions to reveal how neural activity during real-world navigation and memory recall underlies both memory function and its pathological disruptions
 
 #### 12:00 PM - 2:00 PM | BBQS Networking Event
 
