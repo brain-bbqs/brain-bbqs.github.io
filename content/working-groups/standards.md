@@ -37,8 +37,9 @@ by working with BBQS and data standards bodies and teams to:
 - [Working Group Charter](https://docs.google.com/document/d/1WIVI8HZF4-IfZZ61UjCZx2K7NyYx_CaTuIHmhFo7eYw/edit?usp=sharing)
 
 #### Resources
-- [View Standards Resources](/resources?search=WG-Standards)
 - [Standards Guidelines](https://docs.google.com/document/d/1vIJ01La9G76FfGywS3IbG4o1GR4qquS31MoJ2B4_4os/edit?usp=sharing)
+- [View Standards Resources](/resources?search=WG-Standards)
+- [The Ecosystem of Standards in Neuroscience: Which Ones Are For You? (SfN 2025 Poster)](https://zenodo.org/records/18333008)
 
 #### Chairs
 - [Oliver Ruebel](https://crd.lbl.gov/divisions/scidata/computational-biosciences/members/staff/oliver-ruebel-bio/)
