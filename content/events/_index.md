@@ -3,7 +3,8 @@ title: 'SFN 2025: BBQS at Neuroscience'
 weight: 1
 ---
 
-# Join BBQS at SFN 2025! 
+<span id="join-bbqs-at-sfn-2025"></span>
+# Join BBQS at SFN 2025!
 
 ### Society for Neuroscience Annual Meeting
 **November 15-19, 2025 • San Diego Convention Center, San Diego, CA**
@@ -172,6 +173,7 @@ Explore the **Distributed Archives for Neurophysiology Data Integration** (DANDI
 - **Presenters:** Oliver Ruebel, Brock Wester
 - **Keywords:** Data, Standards, Ecosystem, Community
 - **Grants:** U24 BARD.CC, R24 EMBER
+- **DOI:** [10.5281/zenodo.18333007](https://doi.org/10.5281/zenodo.18333008)
 
 **Multimodal analysis of intracranial neural data from DBS patients with psychiatric disorders**
 
