@@ -30,7 +30,7 @@ The Brain Behavior Quantification and Synchronization (BBQS) Initiative will hav
 ## Key Information
 
 - **Dates:** November 15-19, 2025
-- **Location:** San Diego Convention Center, San Diego, CA  
+- **Location:** San Diego Convention Center, San Diego, CA
 - **Networking Event:** Monday, November 17, 12-2 PM (near Convention Center)
 
 ---
