@@ -379,6 +379,42 @@
       "categories": ["data-sharing", "paper"],
       "animals": [],
       "tags": ["data sharing", "FAIR", "WG-ELSI", "WG-Standards"]
+    },
+    {
+      "id": "ecosystem-standards-neuroscience-poster-2025",
+      "name": "The Ecosystem of Standards in Neuroscience: Which Ones Are For You? (SfN 2025 Poster)",
+      "url": "https://zenodo.org/records/18333008",
+      "doi": "https://doi.org/10.5281/zenodo.18333008",
+      "description": "This poster, presented at SfN 2025, provides an overview of the current ecosystem of neuroscience data standards, their interrelationships, and practical implementation guidance. It surveys established data standards for storing, transmitting, and annotating neuroscience data, and offers decision-making guidance for researchers. Case studies demonstrate successful implementation of standards to enhance research workflows and data sharing.",
+      "type": "paper",
+      "animals": [],
+      "categories": ["data-sharing", "paper"],
+      "tags": ["neuroscience", "data standards", "FAIR data", "neurophysiology", "neuroimaging", "BIDS", "NWB", "data sharing", "research data management", "BBQS", "BRAIN Initiative", "SfN", "poster", "WG-Standards"],
+        "authors": [
+          "Oliver Rübel", "Cody C. Baker", "Jyl Boline", "Kristofer Bouchard", "Andrew P. Davison", "Saskia de Vries", "Benjamin Dichter", "Andrey Fedorov", "Satrajit S. Ghosh", "Tom Gillespie", "Jeffrey S. Grethe", "Nicole Guittari", "Kabilar Gunalan", "Sean N. Hatton", "Erik Johnson", "David Keator", "David N. Kennedy", "Ryan Ly", "Christopher J. Markiewicz", "Peyman Najafi", "Steven Nichols", "Franco Pestilli", "JB Poline", "Stephanie Prince", "Kay A. Robbins", "Christopher Rorden", "Melissa Kline Struhl", "Nicole E. S. Tregoning", "Adam L. Tyson", "Thomas Wachtler", "Brock Wester", "Han Yi", "Lyuba Zehl", "Kailin Zhuang", "Yaroslav O. Halchenko"
+        ],
+      "files": [
+        {
+          "name": "SfN-2025_Poster-DataStandards.pdf",
+          "url": "https://zenodo.org/api/records/18333008/files/SfN-2025_Poster-DataStandards.pdf/content"
+        },
+        {
+          "name": "SfN-2025_Poster-DataStandards.jpg",
+          "url": "https://zenodo.org/api/records/18333008/files/SfN-2025_Poster-DataStandards.jpg/content"
+        }
+      ],
+      "event": {
+        "name": "Society for Neuroscience (SfN) annual meeting, Neuroscience 2025",
+        "acronym": "SfN",
+        "dates": "15-19 November, 2025",
+        "place": "San Diego",
+        "session": "J.07. Data Analysis and Statistics",
+        "session_part": "PSTR477.19/VV15",
+        "url": "https://www.sfn.org/meetings/neuroscience-2025"
+      },
+      "license": "CC-BY-4.0",
+      "publisher": "Zenodo",
+      "publication_date": "2025-11-11"
     }
   ],
   "categories": [
